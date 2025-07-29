@@ -1,0 +1,4081 @@
+﻿case_id,point,clause,article,type,Note
+1,i,1,51,hình sự,
+1,s,1,51,hình sự,
+1,,2,51,hình sự,
+1,g,1,52,hình sự,
+1,,,35,hình sự,
+1,a,1,47,hình sự,
+1,b,1,47,hình sự,
+1,a,2,106,tố tụng hình sự,
+1,b,2,106,tố tụng hình sự,
+1,c,2,106,tố tụng hình sự,
+1,,2,201,hình sự,
+1,,3,201,hình sự,
+1,,1,468,,dân sự
+1,,,123,,dân sự
+1,,2,131,,dân sự
+1,,,357,,dân sự
+1,,,468,,dân sự
+1,,,2,,thi hành án dân sự
+1,,,6,,thi hành án dân sự
+1,,,7,,thi hành án dân sự
+1,,,9,,thi hành án dân sự
+1,,,30,,thi hành án dân sự
+2,a,1,244,hình sự,
+2,s,1,51,hình sự,
+2,,2,51,hình sự,
+2,d,3,106,tố tụng hình sự,
+2,,1,69,thi hành án hình sự,
+2,,,65,hình sự,
+2,,,47,hình sự,
+2,,,106,tố tụng hình sự,
+2,,,136,tố tụng hình sự,
+2,,,331,tố tụng hình sự,
+2,,,333,tố tụng hình sự,
+3,c,1,244,hình sự,
+3,s,1,51,hình sự,
+3,,,65,hình sự,
+3,,2,51,hình sự,
+3,,,47,hình sự,
+3,,,106,tố tụng hình sự,
+3,,1,69,thi hành án hình sự,
+3,,,136,tố tụng hình sự,
+3,,,331,tố tụng hình sự,
+3,,,333,tố tụng hình sự,
+4,a,1,244,hình sự,86/2018/HSST
+4,h,1,51,hình sự,86/2018/HSST
+4,i,1,51,hình sự,86/2018/HSST
+4,n,1,51,hình sự,86/2018/HSST
+4,s,1,51,hình sự,86/2018/HSST
+4,,2,51,hình sự,86/2018/HSST
+4,,,38,hình sự,86/2018/HSST
+4,b,1,355,tố tụng hình sự,86/2018/HSST
+4,e,1,357,tố tụng hình sự,86/2018/HSST
+4,,,65,hình sự,86/2018/HSST
+4,,,69,thi hành án hình sự,86/2018/HSST
+5,b,1,244,hình sự,
+5,,4,244,hình sự,
+5,s,1,51,hình sự,
+5,,2,51,hình sự,
+5,,1,65,hình sự,
+5,m,1,51,hình sự,
+5,,2,35,hình sự,
+5,,,65,hình sự,
+5,,1,244,hình sự,
+5,,2,136,tố tụng hình sự,
+5,,,331,tố tụng hình sự,
+5,,,333,tố tụng hình sự,
+5,,1,69,thi hành án hình sự,
+5,,,2,,thi hành án dân sự
+5,,,6,,thi hành án dân sự
+5,,,7,,thi hành án dân sự
+5,,,7a,,thi hành án dân sự
+5,,,7b,,thi hành án dân sự
+5,,,9,,thi hành án dân sự
+5,,,30,,thi hành án dân sự
+6,a,1,244,hình sự,
+6,h,1,51,hình sự,
+6,s,1,51,hình sự,
+6,,2,51,hình sự,
+6,,1,65,hình sự,
+6,b,3,106,tố tụng hình sự,
+6,,,65,hình sự,
+6,,1,244,hình sự,
+6,,1,69,thi hành án hình sự,
+6,,5,65,hình sự,
+6,,4,328,tố tụng hình sự,
+6,,2,136,tố tụng hình sự,
+6,,,331,tố tụng hình sự,
+6,,,333,tố tụng hình sự,
+7,a,1,244,hình sự,
+7,s,1,51,hình sự,
+7,,2,51,hình sự,
+7,,,65,hình sự,
+7,a,2,106,tố tụng hình sự,
+7,c,2,106,tố tụng hình sự,
+7,,2,190,hình sự,
+7,,1,244,hình sự,
+7,,1,51,hình sự,
+7,,3,106,tố tụng hình sự,
+7,,1,69,thi hành án hình sự,
+7,,,136,tố tụng hình sự,
+8,b,1,244,hình sự,
+8,s,1,51,hình sự,
+8,,2,51,hình sự,
+8,,,58,hình sự,
+8,,,65,hình sự,
+8,,,47,hình sự,
+8,,,106,tố tụng hình sự,
+8,,,136,tố tụng hình sự,
+8,,,331,tố tụng hình sự,
+8,,,333,tố tụng hình sự,
+8,,4,244,hình sự,
+8,,,35,hình sự,
+8,,1,69,thi hành án hình sự,
+8,,,52,hình sự,
+8,,,2,,thi hành án dân sự
+8,,,6,,thi hành án dân sự
+8,,,7,,thi hành án dân sự
+8,,,9,,thi hành án dân sự
+8,,,30,,thi hành án dân sự
+9,a,1,244,hình sự,
+9,n,1,51,hình sự,
+9,s,1,51,hình sự,
+9,,2,51,hình sự,
+9,,,65,hình sự,
+9,đ,2,190,hình sự,
+9,,2,136,tố tụng hình sự,
+9,,1,69,thi hành án hình sự,
+9,,,234,hình sự,
+10,a,1,244,hình sự,
+10,,4,244,hình sự,
+10,s,1,51,hình sự,
+10,,,65,hình sự,
+10,,1,244,hình sự,
+10,a,2,106,tố tụng hình sự,
+10,d,3,106,tố tụng hình sự,
+10,,1,69,thi hành án hình sự,
+11,a,3,244,hình sự,
+11,s,1,51,hình sự,
+11,t,1,51,hình sự,
+11,,2,51,hình sự,
+11,,,54,hình sự,
+11,,4,244,hình sự,
+12,a,1,244,hình sự,
+12,s,1,51,hình sự,
+12,,2,51,hình sự,
+12,,1,47,hình sự,
+12,,2,106,tố tụng hình sự,
+12,,3,106,tố tụng hình sự,
+12,,4,244,hình sự,
+12,,2,136,tố tụng hình sự,
+12,,,52,hình sự,
+13,a,1,244,hình sự,
+13,s,1,51,hình sự,
+13,,2,51,hình sự,
+13,,,65,hình sự,
+13,a,1,47,hình sự,
+13,a,2,106,tố tụng hình sự,
+13,,1,69,thi hành án hình sự,
+13,,2,136,tố tụng hình sự,
+13,,,23,,luật phí và lệ phí 2015
+13,,,47,hình sự,
+13,,,106,tố tụng hình sự,
+14,h,1,51,hình sự,
+14,s,1,51,hình sự,
+14,,2,51,hình sự,
+14,,1,244,hình sự,
+14,,,65,hình sự,
+14,,,69,thi hành án hình sự,
+14,,,46,hình sự,
+14,,,47,hình sự,
+14,,,106,tố tụng hình sự,
+14,,,135,tố tụng hình sự,
+14,,,136,tố tụng hình sự,
+14,,,331,tố tụng hình sự,
+14,,,333,tố tụng hình sự,
+15,d,1,244,hình sự,
+15,a,1,244,hình sự,
+15,s,1,51,hình sự,
+15,,2,51,hình sự,
+15,,1,244,hình sự,
+15,,1,69,thi hành án hình sự,
+15,,2,136,tố tụng hình sự,
+15,,,65,hình sự,
+15,,,47,hình sự,
+15,,,106,tố tụng hình sự,
+15,,,2,,thi hành án dân sự
+15,,,6,,thi hành án dân sự
+15,,,7,,thi hành án dân sự
+15,,,7a,,thi hành án dân sự
+15,,,9,,thi hành án dân sự
+15,,,30,,thi hành án dân sự
+17,a,3,244,hình sự,
+17,s,1,51,hình sự,
+17,t,1,51,hình sự,
+17,,2,51,hình sự,
+17,,3,244,hình sự,
+17,,4,244,hình sự,
+17,,2,136,tố tụng hình sự,
+17,,,38,hình sự,
+17,,,54,hình sự,
+17,,,106,tố tụng hình sự,
+18,h,1,51,hình sự,
+18,s,1,51,hình sự,
+18,,2,51,hình sự,
+18,,1,244,hình sự,
+18,,2,106,tố tụng hình sự,
+18,,3,106,tố tụng hình sự,
+18,,1,69,thi hành án hình sự,
+18,,,65,hình sự,
+18,,,135,tố tụng hình sự,
+18,,,136,tố tụng hình sự,
+19,a,1,244,hình sự,
+19,s,1,51,hình sự,
+19,h,1,52,hình sự,
+19,a,1,47,hình sự,
+19,a,2,106,tố tụng hình sự,
+19,,3,106,tố tụng hình sự,
+19,,1,53,hình sự,
+19,,,38,hình sự,
+19,,,136,tố tụng hình sự,
+19,,,244,hình sự,
+19,,,2,,thi hành án dân sự
+19,,,6,,thi hành án dân sự
+19,,,7,,thi hành án dân sự
+19,,,9,,thi hành án dân sự
+19,,,30,,thi hành án dân sự
+21,b,1,244,hình sự,
+21,r,1,51,hình sự,
+21,s,1,51,hình sự,
+21,a,1,47,hình sự,
+21,a,2,106,tố tụng hình sự,
+21,a,3,106,tố tụng hình sự,
+21,,2,136,tố tụng hình sự,
+21,,1,244,hình sự,
+21,,,65,hình sự,
+21,,,2,,thi hành án dân sự
+21,,,6,,thi hành án dân sự
+21,,,7,,thi hành án dân sự
+21,,,7a,,thi hành án dân sự
+21,,,7b,,thi hành án dân sự
+21,,,9,,thi hành án dân sự
+21,,,30,,thi hành án dân sự
+22,a,1,244,hình sự,
+22,s,1,51,hình sự,
+22,d,3,106,tố tụng hình sự,
+22,,2,51,hình sự,
+22,,1,101,hình sự,
+22,,1,69,thi hành án dân sự,
+22,,1,468,,dân sự
+22,,2,648,,dân sự
+22,,,17,hình sự,
+22,,,35,hình sự,
+22,,,58,hình sự,
+22,,,65,hình sự,
+22,,,91,hình sự,
+22,,,101,hình sự,
+22,,,47,hình sự,
+22,,,106,tố tụng hình sự,
+22,,,136,tố tụng hình sự,
+22,,,357,,dân sự
+22,,,7,,thi hành án dân sự
+22,,,9,,thi hành án dân sự
+22,,,30,,thi hành án dân sự
+23,a,1,244,hình sự,
+23,s,1,51,hình sự,
+23,,2,51,hình sự,
+23,,4,244,hình sự,
+23,,,47,hình sự,
+23,,,106,tố tụng hình sự,
+23,,,331,tố tụng hình sự,
+23,,,332,tố tụng hình sự,
+23,,,333,tố tụng hình sự,
+24,a,1,244,hình sự,
+24,s,1,51,hình sự,
+24,h,1,51,hình sự,
+24,,4,244,hình sự,
+24,,2,51,hình sự,
+24,,,65,hình sự,
+24,,,136,tố tụng hình sự,
+24,,,106,tố tụng hình sự,
+24,,,331,tố tụng hình sự,
+24,,,333,tố tụng hình sự,
+25,a,1,244,hình sự,
+25,s,1,51,hình sự,
+25,h,1,51,hình sự,
+25,,2,51,hình sự,
+25,,4,244,hình sự,
+25,,,65,hình sự,
+25,,,136,tố tụng hình sự,
+25,,,106,tố tụng hình sự,
+25,,,331,tố tụng hình sự,
+25,,,333,tố tụng hình sự,
+26,a,2,244,hình sự,
+26,s,1,51,hình sự,
+26,,2,51,hình sự,
+26,,1,54,hình sự,
+26,,2,135,tố tụng hình sự,
+26,,2,136,tố tụng hình sự,
+26,,,54,hình sự,
+26,,,106,tố tụng hình sự,
+26,,,2,,thi hành án dân sự
+26,,,6,,thi hành án dân sự
+26,,,7,,thi hành án dân sự
+26,,,9,,thi hành án dân sự
+26,,,30,,thi hành án dân sự
+26,,,331,tố tụng hình sự,
+26,,,333,tố tụng hình sự,
+27,a,3,244,hình sự,90/2019/HS-ST
+27,h,1,51,hình sự,90/2019/HS-ST
+27,s,1,51,hình sự,90/2019/HS-ST
+27,,2,51,hình sự,90/2019/HS-ST
+27,a,1,355,tố tụng hình sự,90/2019/HS-ST
+27,a,1,244,hình sự,90/2019/HS-ST
+27,,1,54,hình sự,90/2019/HS-ST
+27,,,38,hình sự,90/2019/HS-ST
+27,,,356,tố tụng hình sự,90/2019/HS-ST
+27,,,331,tố tụng hình sự,90/2019/HS-ST
+27,,,332,tố tụng hình sự,90/2019/HS-ST
+27,,,333,tố tụng hình sự,90/2019/HS-ST
+27,,,135,tố tụng hình sự,90/2019/HS-ST
+27,,,136,tố tụng hình sự,90/2019/HS-ST
+28,h,1,51,hình sự,
+28,s,1,51,hình sự,
+28,,2,51,hình sự,
+28,,1,244,hình sự,
+28,,2,106,tố tụng hình sự,
+28,,2,136,tố tụng hình sự,
+28,,,65,hình sự,
+28,,,52,hình sự,
+28,,,47,hình sự,
+28,,,135,tố tụng hình sự,
+28,,,331,tố tụng hình sự,
+28,,,333,tố tụng hình sự,
+29,b,1,244,hình sự,
+29,s,1,51,hình sự,
+29,,2,51,hình sự,
+29,c,3,106,tố tụng hình sự,
+29,c,2,106,tố tụng hình sự,
+29,a,3,106,tố tụng hình sự,
+29,a,2,106,tố tụng hình sự,
+29,,1,65,hình sự,
+29,,5,65,hình sự,
+29,,4,244,hình sự,
+29,,2,65,hình sự,
+29,,,136,tố tụng hình sự,
+30,b,1,244,hình sự,
+30,s,1,51,hình sự,
+30,i,1,51,hình sự,
+30,m,1,51,hình sự,
+30,,2,51,hình sự,
+30,,1,65,hình sự,
+30,,2,65,hình sự,
+30,,2,136,tố tụng hình sự,
+30,,1,54,hình sự,
+30,,1,69,thi hành án hình sự,
+30,,,36,hình sự,
+30,,,38,hình sự,
+31,b,1,244,hình sự,
+31,m,1,51,hình sự,
+31,s,1,51,hình sự,
+31,a,1,47,hình sự,
+31,a,2,106,tố tụng hình sự,
+31,,2,51,hình sự,
+31,,,65,hình sự,
+31,,,136,tố tụng hình sự,
+31,,,331,tố tụng hình sự,
+31,,,333,tố tụng hình sự,
+32,b,1,244,hình sự,
+32,s,1,51,hình sự,
+32,i,1,51,hình sự,
+32,,2,51,hình sự,
+32,,,38,hình sự,
+32,,,47,hình sự,
+32,,,106,tố tụng hình sự,
+32,,,136,tố tụng hình sự,
+32,,,234,hình sự,
+32,,,244,hình sự,
+33,b,1,244,hình sự,
+33,s,1,51,hình sự,
+33,,2,51,hình sự,
+33,a,1,47,hình sự,
+33,,2,47,hình sự,
+33,a,2,106,tố tụng hình sự,
+33,,2,136,tố tụng hình sự,
+33,,,38,hình sự,
+33,,,50,hình sự,
+33,,,65,hình sự,
+33,,,331,tố tụng hình sự,
+33,,,333,tố tụng hình sự,
+33,,,69,thi hành án hình sự,
+33,,,47,hình sự,
+33,,,106,tố tụng hình sự,
+34,c,1,244,hình sự,
+34,s,1,51,hình sự,
+34,i,1,51,hình sự,
+34,,2,51,hình sự,
+34,,4,244,hình sự,
+34,,,244,hình sự,
+34,,,65,hình sự,
+34,,,47,hình sự,
+34,,,136,tố tụng hình sự,
+34,,,331,tố tụng hình sự,
+34,,,333,tố tụng hình sự,
+34,,,337,tố tụng hình sự,
+35,a,1,244,hình sự,
+35,s,1,51,hình sự,
+35,n,1,51,hình sự,
+35,,4,244,hình sự,
+35,,,106,tố tụng hình sự,
+35,,,136,tố tụng hình sự,
+35,,,331,tố tụng hình sự,
+35,,,333,tố tụng hình sự,
+35,,,337,tố tụng hình sự,
+37,a,1,244,hình sự,
+37,s,1,51,hình sự,
+37,,2,51,hình sự,
+37,,4,244,hình sự,
+37,,1,69,thi hành án hình sự,
+37,,2,136,tố tụng hình sự,
+37,,,38,hình sự,
+37,,,65,hình sự,
+38,c,2,244,hình sự,139/2018/HS-ST
+38,s,1,51,hình sự,139/2018/HS-ST
+38,t,1,51,hình sự,139/2018/HS-ST
+38,v,1,51,hình sự,139/2018/HS-ST
+38,a,1,355,tố tụng hình sự,139/2018/HS-ST
+38,b,1,355,tố tụng hình sự,139/2018/HS-ST
+38,e,1,357,tố tụng hình sự,139/2018/HS-ST
+38,,1,69,thi hành án hình sự,139/2018/HS-ST
+38,,,54,hình sự,139/2018/HS-ST
+38,,,65,hình sự,139/2018/HS-ST
+38,,,357,tố tụng hình sự,139/2018/HS-ST
+38,,,44,tố tụng hình sự,139/2018/HS-ST
+38,,,260,tố tụng hình sự,139/2018/HS-ST
+38,,,261,tố tụng hình sự,139/2018/HS-ST
+39,d,3,244,hình sự,32/2019/HS-ST
+39,s,1,51,hình sự,32/2019/HS-ST
+39,t,1,51,hình sự,32/2019/HS-ST
+39,,2,51,hình sự,32/2019/HS-ST
+39,a,1,355,tố tụng hình sự,32/2019/HS-ST
+39,c,1,355,tố tụng hình sự,32/2019/HS-ST
+39,a,1,358,tố tụng hình sự,32/2019/HS-ST
+39,b,1,358,tố tụng hình sự,32/2019/HS-ST
+39,c,1,358,tố tụng hình sự,32/2019/HS-ST
+39,,1,54,hình sự,32/2019/HS-ST
+39,,,17,hình sự,32/2019/HS-ST
+39,,,58,hình sự,32/2019/HS-ST
+39,,,356,tố tụng hình sự,32/2019/HS-ST
+40,a,1,244,hình sự,11/2019/HS-ST
+40,s,1,51,hình sự,11/2019/HS-ST
+40,,2,51,hình sự,11/2019/HS-ST
+40,x,1,51,hình sự,11/2019/HS-ST
+40,a,1,355,tố tụng hình sự,11/2019/HS-ST
+40,b,1,355,tố tụng hình sự,11/2019/HS-ST
+40,a,2,357,tố tụng hình sự,11/2019/HS-ST
+40,d,2,357,tố tụng hình sự,11/2019/HS-ST
+40,,1,69,thi hành án hình sự,11/2019/HS-ST
+40,,1,244,hình sự,11/2019/HS-ST
+40,,,54,hình sự,11/2019/HS-ST
+40,,,65,hình sự,11/2019/HS-ST
+40,,,136,tố tụng hình sự,11/2019/HS-ST
+41,b,1,244,hình sự,22/2019/HS-ST
+41,s,1,51,hình sự,22/2019/HS-ST
+41,b,1,355,tố tụng hình sự,22/2019/HS-ST
+41,,2,51,hình sự,22/2019/HS-ST
+41,,,38,hình sự,22/2019/HS-ST
+41,,,65,hình sự,22/2019/HS-ST
+41,,,62,thi hành án hình sự,22/2019/HS-ST
+42,a,1,244,hình sự,
+42,b,1,244,hình sự,
+42,s,1,51,hình sự,
+42,,1,69,thi hành án hình sự,
+42,,2,136,tố tụng hình sự,
+42,,,65,hình sự,
+43,a,1,244,hình sự,
+43,h,1,51,hình sự,
+43,s,1,51,hình sự,
+43,,2,51,hình sự,
+43,,,65,hình sự,
+43,,,47,hình sự,
+43,,,106,tố tụng hình sự,
+43,,,136,tố tụng hình sự,
+43,,1,69,thi hành án hình sự,
+43,,,331,tố tụng hình sự,
+43,,,333,tố tụng hình sự,
+45,b,1,244,hình sự,
+45,s,1,51,hình sự,
+45,t,1,51,hình sự,
+45,,1,51,hình sự,
+45,,,65,hình sự,
+45,,,69,thi hành án hình sự,
+45,,,47,hình sự,
+45,,,106,tố tụng hình sự,
+45,,,136,tố tụng hình sự,
+45,,,2,,thi hành án dân sự
+45,,,6,,thi hành án dân sự
+45,,,7,,thi hành án dân sự
+45,,,9,,thi hành án dân sự
+45,,,30,,thi hành án dân sự
+45,,,331,tố tụng hình sự,
+45,,,333,tố tụng hình sự,
+45,,,337,tố tụng hình sự,
+45,,,260,tố tụng hình sự,
+46,a,1,244,hình sự,
+46,h,1,51,hình sự,
+46,s,1,51,hình sự,
+46,,2,51,hình sự,
+46,,4,7,,Luật đa dạng sinh học
+46,,4,244,hình sự,
+46,,,65,hình sự,
+46,,,36,hình sự,
+46,,,47,hình sự,
+46,,,106,tố tụng hình sự,
+47,b,1,244,hình sự,
+47,s,1,51,hình sự,
+47,h,1,51,hình sự,
+47,,2,51,hình sự,
+47,c,1,47,hình sự,
+47,,2,47,hình sự,
+47,a,2,106,tố tụng hình sự,
+47,c,2,106,tố tụng hình sự,
+47,,1,244,hình sự,
+47,,4,244,hình sự,
+47,,1,69,thi hành án hình sự,
+47,,1,106,tố tụng hình sự,
+47,,1,47,hình sự,
+47,,2,47,hình sự,
+47,,,65,hình sự,
+47,,,106,tố tụng hình sự,
+47,,,244,hình sự,
+47,,,136,tố tụng hình sự,
+48,a,1,244,hình sự,
+48,s,1,51,hình sự,
+48,,2,51,hình sự,
+48,,4,244,hình sự,
+48,,,65,hình sự,
+48,,,47,hình sự,
+48,,,106,tố tụng hình sự,
+48,,,136,tố tụng hình sự,
+48,,,331,tố tụng hình sự,
+48,,,333,tố tụng hình sự,
+48,,,92,thi hành án hình sự,
+49,a,1,244,hình sự,
+49,s,1,51,hình sự,
+49,h,1,52,hình sự,
+49,d,3,106,tố tụng hình sự,
+49,,4,56,hình sự,
+49,,3,66,hình sự,
+49,,4,66,hình sự,
+49,,,38,hình sự,
+49,,,66,hình sự,
+49,,,47,hình sự,
+49,,,106,tố tụng hình sự,
+49,,,56,hình sự,
+49,,,66,hình sự,
+49,,,45,tố tụng hình sự,
+49,,,46,tố tụng hình sự,
+49,,,136,tố tụng hình sự,
+49,,,260,tố tụng hình sự,
+49,,,268,tố tụng hình sự,
+49,,,269,tố tụng hình sự,
+49,,,299,tố tụng hình sự,
+49,,,326,tố tụng hình sự,
+49,,,327,tố tụng hình sự,
+49,,,329,tố tụng hình sự,
+49,,,331,tố tụng hình sự,
+49,,,333,tố tụng hình sự,
+50,d,1,244,hình sự,
+50,s,1,51,hình sự,
+50,t,1,51,hình sự,
+50,,2,51,hình sự,
+50,,,65,hình sự,
+50,,,136,tố tụng hình sự,
+50,,,331,tố tụng hình sự,
+50,,,333,tố tụng hình sự,
+50,,,337,tố tụng hình sự,
+51,a,1,244,hình sự,
+51,s,1,51,hình sự,
+51,u,1,51,hình sự,
+51,,2,51,hình sự,
+51,h,1,52,hình sự,
+51,a,1,47,hình sự,
+51,a,2,106,tố tụng hình sự,
+51,,1,47,hình sự,
+51,,2,106,tố tụng hình sự,
+51,,4,66,hình sự,
+51,,2,56,hình sự,
+51,,,38,hình sự,
+51,,,65,hình sự,
+51,,,52,hình sự,
+51,,,69,thi hành án hình sự,
+51,,,46,hình sự,
+51,,,47,hình sự,
+51,,,106,tố tụng hình sự,
+51,,,136,tố tụng hình sự,
+51,,,331,tố tụng hình sự,
+51,,,333,tố tụng hình sự,
+52,a,2,244,hình sự,
+52,s,1,51,hình sự,
+52,t,1,51,hình sự,
+52,,2,51,hình sự,
+52,a,1,47,hình sự,
+52,b,1,47,hình sự,
+52,a,2,106,tố tụng hình sự,
+52,b,2,106,tố tụng hình sự,
+52,c,2,106,tố tụng hình sự,
+52,,1,54,hình sự,
+52,,1,51,hình sự,
+52,,2,136,tố tụng hình sự,
+52,,,65,hình sự,
+52,,,58,hình sự,
+52,,,244,hình sự,
+52,,,92,thi hành án hình sự,
+53,b,1,244,hình sự,
+53,s,1,51,hình sự,
+53,t,1,51,hình sự,
+53,a,1,47,hình sự,
+53,a,2,106,tố tụng hình sự,
+53,,2,47,hình sự,
+53,,1,65,hình sự,
+53,,1,69,thi hành án hình sự,
+53,,,65,hình sự,
+54,b,1,244,hình sự,
+54,s,1,51,hình sự,
+54,t,1,51,hình sự,
+54,,2,51,hình sự,
+54,a,1,47,hình sự,
+54,,2,47,hình sự,
+54,a,2,106,tố tụng hình sự,
+54,,3,106,tố tụng hình sự,
+54,,1,244,hình sự,
+54,,2,136,tố tụng hình sự,
+54,,,65,hình sự,
+54,,,38,hình sự,
+54,,,50,hình sự,
+54,,,331,tố tụng hình sự,
+54,,,333,tố tụng hình sự,
+54,,,92,thi hành án hình sự,
+55,a,1,244,hình sự,
+55,s,1,51,hình sự,
+55,,2,51,hình sự,
+55,a,2,29,hình sự,
+55,d,2,106,tố tụng hình sự,
+55,,,65,hình sự,
+56,a,3,244,hình sự,
+56,s,1,51,hình sự,
+56,m,1,51,hình sự,
+56,t,1,51,hình sự,
+56,,2,51,hình sự,
+56,,2,268,tố tụng hình sự,
+56,,2,290,tố tụng hình sự,
+56,,2,135,tố tụng hình sự,
+56,,2,136,tố tụng hình sự,
+56,,,17,hình sự,
+56,,,54,hình sự,
+56,,,37,hình sự,
+56,,,47,hình sự,
+56,,,106,tố tụng hình sự,
+56,,,293,tố tụng hình sự,
+56,,,48,hình sự,
+57,b,1,244,hình sự,
+57,s,1,51,hình sự,
+57,,2,51,hình sự,
+57,a,1,47,hình sự,
+57,c,1,47,hình sự,
+57,a,3,106,tố tụng hình sự,
+57,c,3,106,tố tụng hình sự,
+57,a,2,106,tố tụng hình sự,
+57,c,2,106,tố tụng hình sự,
+57,,1,106,tố tụng hình sự,
+57,,1,244,hình sự,
+57,,4,244,hình sự,
+57,,1,65,hình sự,
+57,,2,65,hình sự,
+57,,5,65,hình sự,
+57,,3,92,thi hành án hình sự,
+57,,2,136,tố tụng hình sự,
+57,,,65,hình sự,
+57,,,68,thi hành án hình sự,
+58,b,1,244,hình sự,
+58,s,1,51,hình sự,
+58,,2,51,hình sự,
+58,a,2,106,tố tụng hình sự,
+58,b,2,106,tố tụng hình sự,
+58,,1,47,hình sự,
+58,,,65,hình sự,
+58,,,136,tố tụng hình sự,
+58,,,244,hình sự,
+58,,,2,,thi hành án dân sự
+58,,,6,,thi hành án dân sự
+58,,,7,,thi hành án dân sự
+58,,,9,,thi hành án dân sự
+58,,,30,,thi hành án dân sự
+59,b,1,244,hình sự,
+59,s,1,51,hình sự,
+59,,2,51,hình sự,
+59,,4,244,hình sự,
+59,,2,136,tố tụng hình sự,
+59,,3,92,thi hành án hình sự,
+59,,,65,hình sự,
+59,,,135,tố tụng hình sự,
+60,a,1,244,hình sự,
+60,m,1,51,hình sự,
+60,s,1,51,hình sự,
+60,,2,51,hình sự,
+60,t,1,51,hình sự,
+60,,,65,hình sự,
+61,b,1,244,hình sự,
+61,s,1,51,hình sự,
+61,t,1,51,hình sự,
+61,,2,51,hình sự,
+61,a,2,106,tố tụng hình sự,
+61,c,2,106,tố tụng hình sự,
+61,a,3,106,tố tụng hình sự,
+61,d,3,106,tố tụng hình sự,
+61,,1,65,hình sự,
+61,,2,65,hình sự,
+61,,5,65,hình sự,
+61,,1,51,hình sự,
+61,,1,47,hình sự,
+61,,4,244,hình sự,
+61,,2,136,tố tụng hình sự,
+61,,,65,hình sự,
+61,,,136,tố tụng hình sự,
+62,i,2,244,hình sự,
+62,s,1,51,hình sự,
+62,q,1,51,hình sự,
+62,t,1,51,hình sự,
+62,,2,51,hình sự,
+62,,4,244,hình sự,
+62,,2,136,tố tụng hình sự,
+62,,1,331,tố tụng hình sự,
+62,,1,333,tố tụng hình sự,
+62,,,190,hình sự,
+62,,,234,hình sự,
+62,,,191,hình sự,
+62,,,244,hình sự,
+62,,,54,hình sự,
+62,,,38,hình sự,
+62,,,106,tố tụng hình sự,
+62,,,50,hình sự,
+62,,,2,,thi hành án dân sự
+62,,,6,,thi hành án dân sự
+62,,,7,,thi hành án dân sự
+62,,,9,,thi hành án dân sự
+62,,,30,,thi hành án dân sự
+64,a,2,244,hình sự,132/2020/HSST
+64,s,1,51,hình sự,132/2020/HSST
+64,t,1,51,hình sự,132/2020/HSST
+64,,2,51,hình sự,132/2020/HSST
+64,b,1,355,tố tụng hình sự,132/2020/HSST
+64,e,1,357,tố tụng hình sự,132/2020/HSST
+64,,3,92,thi hành án hình sự,132/2020/HSST
+64,,,54,hình sự,132/2020/HSST
+64,,,38,hình sự,132/2020/HSST
+64,,,65,hình sự,132/2020/HSST
+64,,,136,tố tụng hình sự,132/2020/HSST
+65,b,1,244,hình sự,
+65,h,1,51,hình sự,
+65,s,1,51,hình sự,
+65,,2,51,hình sự,
+65,,4,244,hình sự,
+65,,,65,hình sự,
+65,,,47,hình sự,
+65,,,48,hình sự,
+65,,,106,tố tụng hình sự,
+65,,,135,tố tụng hình sự,
+65,,,136,tố tụng hình sự,
+65,,,331,tố tụng hình sự,
+65,,,332,tố tụng hình sự,
+65,,,333,tố tụng hình sự,
+65,,,68,thi hành án hình sự,
+65,,,92,thi hành án hình sự,
+66,a,2,244,hình sự,33/2020/HS-ST
+66,,4,244,hình sự,33/2020/HS-ST
+66,h,1,52,hình sự,33/2020/HS-ST
+66,b,1,355,tố tụng hình sự,33/2020/HS-ST
+66,c,1,357,tố tụng hình sự,33/2020/HS-ST
+66,s,1,51,hình sự,33/2020/HS-ST
+66,,2,51,hình sự,33/2020/HS-ST
+66,,2,332,tố tụng hình sự,33/2020/HS-ST
+66,,,38,hình sự,33/2020/HS-ST
+66,,,244,hình sự,33/2020/HS-ST
+66,,,136,tố tụng hình sự,33/2020/HS-ST
+67,b,1,244,hình sự,
+67,s,1,51,hình sự,
+67,t,1,51,hình sự,
+67,,2,51,hình sự,
+67,a,1,46,hình sự,
+67,m,1,51,hình sự,
+67,,1,47,hình sự,
+67,,2,47,hình sự,
+67,,2,106,tố tụng hình sự,
+67,,3,106,tố tụng hình sự,
+67,,1,54,hình sự,
+67,,1,234,hình sự,
+67,,1,65,hình sự,
+67,,,65,hình sự,
+67,,,244,hình sự,
+67,,,46,hình sự,
+68,a,1,244,hình sự,
+68,s,1,51,hình sự,
+68,,2,51,hình sự,
+68,a,2,106,tố tụng hình sự,
+68,a,1,47,hình sự,
+68,,2,136,tố tụng hình sự,
+68,,4,328,tố tụng hình sự,
+68,,5,65,hình sự,
+68,,,65,hình sự,
+68,,,260,tố tụng hình sự,
+68,,,333,tố tụng hình sự,
+68,,,92,thi hành án hình sự,
+69,a,2,244,hình sự,17/2020/HS-ST
+69,s,1,51,hình sự,17/2020/HS-ST
+69,,2,51,hình sự,17/2020/HS-ST
+69,a,1,355,tố tụng hình sự,17/2020/HS-ST
+69,c,1,357,tố tụng hình sự,17/2020/HS-ST
+69,,1,54,hình sự,17/2020/HS-ST
+69,,2,244,hình sự,17/2020/HS-ST
+69,,1,51,hình sự,17/2020/HS-ST
+69,,,356,tố tụng hình sự,17/2020/HS-ST
+69,,,65,hình sự,17/2020/HS-ST
+69,,,136,tố tụng hình sự,17/2020/HS-ST
+70,a,1,244,hình sự,
+70,h,1,51,hình sự,
+70,s,1,51,hình sự,
+70,,2,51,hình sự,
+70,,3,92,thi hành án hình sự,
+70,,,65,hình sự,
+70,,,47,hình sự,
+70,,,106,tố tụng hình sự,
+70,,,68,thi hành án hình sự,
+70,,,135,tố tụng hình sự,
+70,,,136,tố tụng hình sự,
+70,,,331,tố tụng hình sự,
+70,,,333,tố tụng hình sự,
+71,b,1,244,hình sự,
+71,s,1,51,hình sự,
+71,,2,51,hình sự,
+71,,4,244,hình sự,
+71,,2,136,tố tụng hình sự,
+71,,3,92,thi hành án hình sự,
+71,,,65,hình sự,
+71,,,135,tố tụng hình sự,
+72,a,1,244,hình sự,
+72,s,1,51,hình sự,
+72,x,1,51,hình sự,
+72,,,54,hình sự,
+72,,,136,tố tụng hình sự,
+73,b,1,244,hình sự,
+73,s,1,51,hình sự,
+73,x,1,51,hình sự,
+73,,2,51,hình sự,
+73,b,3,106,tố tụng hình sự,
+73,,1,244,hình sự,
+73,,,52,hình sự,
+73,,,38,hình sự,
+74,b,1,244,hình sự,
+74,s,1,51,hình sự,
+74,,2,51,hình sự,
+74,,,65,hình sự,
+74,,,47,hình sự,
+74,,,106,tố tụng hình sự,
+74,,,50,hình sự,
+74,,,136,tố tụng hình sự,
+74,,,331,tố tụng hình sự,
+74,,,333,tố tụng hình sự,
+74,,,2,,thi hành án dân sự
+74,,,6,,thi hành án dân sự
+74,,,7,,thi hành án dân sự
+74,,,9,,thi hành án dân sự
+74,,,30,,thi hành án dân sự
+75,b,1,244,hình sự,
+75,s,1,51,hình sự,
+75,,2,51,hình sự,
+75,t,1,51,hình sự,
+75,,1,47,hình sự,
+75,,2,106,tố tụng hình sự,
+75,,3,106,tố tụng hình sự,
+75,,3,54,hình sự,
+75,,,65,hình sự,
+75,,,244,hình sự,
+76,a,1,244,hình sự,18/2020/HSST
+76,s,1,51,hình sự,18/2020/HSST
+76,,2,51,hình sự,18/2020/HSST
+76,a,2,106,tố tụng hình sự,18/2020/HSST
+76,b,1,355,tố tụng hình sự,18/2020/HSST
+76,a,1,47,hình sự,18/2020/HSST
+76,,2,136,tố tụng hình sự,18/2020/HSST
+76,,,38,hình sự,18/2020/HSST
+76,,,357,tố tụng hình sự,18/2020/HSST
+76,,,65,hình sự,18/2020/HSST
+76,,,68,thi hành án hình sự,18/2020/HSST
+76,,,87,thi hành án hình sự,18/2020/HSST
+76,,,92,thi hành án hình sự,18/2020/HSST
+76,,,135,tố tụng hình sự,18/2020/HSST
+76,,,136,tố tụng hình sự,18/2020/HSST
+77,g,2,244,hình sự,27/2020/HSST
+77,m,1,51,hình sự,27/2020/HSST
+77,s,1,51,hình sự,27/2020/HSST
+77,t,1,51,hình sự,27/2020/HSST
+77,,2,51,hình sự,27/2020/HSST
+77,a,1,355,tố tụng hình sự,27/2020/HSST
+77,,2,135,tố tụng hình sự,27/2020/HSST
+77,,2,136,tố tụng hình sự,27/2020/HSST
+77,,1,69,thi hành án hình sự,27/2020/HSST
+77,,2,262,tố tụng hình sự,27/2020/HSST
+77,,,54,hình sự,27/2020/HSST
+77,,,65,hình sự,27/2020/HSST
+77,,,355,tố tụng hình sự,27/2020/HSST
+77,,,357,tố tụng hình sự,27/2020/HSST
+77,,,333,tố tụng hình sự,27/2020/HSST
+78,b,1,244,hình sự,
+78,c,1,249,hình sự,
+78,s,1,51,hình sự,
+78,,4,244,hình sự,
+78,,2,106,tố tụng hình sự,
+78,,,55,hình sự,
+78,,,38,hình sự,
+78,,,249,hình sự,
+78,,,47,hình sự,
+78,,,136,tố tụng hình sự,
+78,,,331,tố tụng hình sự,
+78,,,333,tố tụng hình sự,
+79,a,1,244,hình sự,
+79,s,1,51,hình sự,
+79,,2,51,hình sự,
+79,h,1,51,hình sự,
+79,,3,244,hình sự,
+79,,,65,hình sự,
+79,,,52,hình sự,
+79,,,17,hình sự,
+79,,,46,hình sự,
+79,,,47,hình sự,
+79,,,106,tố tụng hình sự,
+79,,,135,tố tụng hình sự,
+79,,,136,tố tụng hình sự,
+79,,,331,tố tụng hình sự,
+79,,,333,tố tụng hình sự,
+80,h,1,51,hình sự,
+80,s,1,51,hình sự,
+80,,2,51,hình sự,
+80,,1,244,hình sự,
+80,,2,106,tố tụng hình sự,
+80,,2,136,tố tụng hình sự,
+80,,,65,hình sự,
+80,,,52,hình sự,
+80,,,47,hình sự,
+80,,,135,tố tụng hình sự,
+80,,,331,tố tụng hình sự,
+80,,,333,tố tụng hình sự,
+81,a,1,244,hình sự,
+81,s,1,51,hình sự,
+81,,2,51,hình sự,
+81,,1,69,thi hành án hình sự,
+81,,,17,hình sự,
+81,,,58,hình sự,
+81,,,65,hình sự,
+81,,,47,hình sự,
+81,,,106,tố tụng hình sự,
+81,,,136,tố tụng hình sự,
+81,,,2,,thi hành án dân sự
+81,,,30,,thi hành án dân sự
+82,b,1,244,hình sự,
+82,s,1,51,hình sự,
+82,,2,51,hình sự,
+82,c,1,47,hình sự,
+82,a,2,106,tố tụng hình sự,
+82,b,3,106,tố tụng hình sự,
+82,,2,47,hình sự,
+82,,1,65,hình sự,
+82,,2,65,hình sự,
+82,,2,51,hình sự,
+82,,5,65,hình sự,
+82,,2,136,tố tụng hình sự,
+82,,1,69,thi hành án hình sự,
+82,,,65,hình sự,
+83,a,2,244,hình sự,49/2020/HS-ST
+83,s,1,51,hình sự,49/2020/HS-ST
+83,,2,51,hình sự,49/2020/HS-ST
+83,b,1,355,tố tụng hình sự,49/2020/HS-ST
+83,,2,136,tố tụng hình sự,49/2020/HS-ST
+83,,,38,hình sự,49/2020/HS-ST
+83,,,47,hình sự,49/2020/HS-ST
+83,,,54,hình sự,49/2020/HS-ST
+83,,,65,hình sự,49/2020/HS-ST
+83,,,357,tố tụng hình sự,49/2020/HS-ST
+83,,,106,tố tụng hình sự,49/2020/HS-ST
+83,,,48,hình sự,49/2020/HS-ST
+83,,,135,tố tụng hình sự,49/2020/HS-ST
+84,d,2,244,hình sự,
+84,k,2,244,hình sự,
+84,s,1,51,hình sự,
+84,a,3,106,tố tụng hình sự,
+84,a,1,47,hình sự,
+84,c,1,47,hình sự,
+84,a,2,106,tố tụng hình sự,
+84,c,2,106,tố tụng hình sự,
+84,b,1,47,hình sự,
+84,,1,47,hình sự,
+84,,2,106,tố tụng hình sự,
+84,,4,244,hình sự,
+84,,1,106,tố tụng hình sự,
+84,,2,135,tố tụng hình sự,
+84,,2,136,tố tụng hình sự,
+84,,1,331,tố tụng hình sự,
+84,,4,331,tố tụng hình sự,
+84,,1,333,tố tụng hình sự,
+84,,,244,hình sự,
+85,a,1,244,hình sự,
+85,s,1,51,hình sự,
+85,,2,51,hình sự,
+85,a,2,106,tố tụng hình sự,
+85,c,2,106,tố tụng hình sự,
+85,,4,244,hình sự,
+85,,,65,hình sự,
+85,,,135,tố tụng hình sự,
+85,,,136,tố tụng hình sự,
+85,,,56,hình sự,
+86,a,1,244,hình sự,
+86,s,1,51,hình sự,
+86,,1,52,hình sự,
+86,,4,244,hình sự,
+86,,1,51,hình sự,
+86,,1,69,thi hành án hình sự,
+86,,2,136,tố tụng hình sự,
+86,,,38,hình sự,
+86,,,50,hình sự,
+86,,,65,hình sự,
+86,,,47,hình sự,
+86,,,48,hình sự,
+86,,,106,tố tụng hình sự,
+86,,,58,hình sự,
+86,,,260,tố tụng hình sự,
+86,,,331,tố tụng hình sự,
+86,,,328,tố tụng hình sự,
+86,,,333,tố tụng hình sự,
+87,b,1,244,hình sự,
+87,s,1,51,hình sự,
+87,,2,51,hình sự,
+87,a,2,106,tố tụng hình sự,
+87,b,2,106,tố tụng hình sự,
+87,,2,106,tố tụng hình sự,
+87,,4,244,hình sự,
+87,,3,92,thi hành án hình sự,
+87,,,65,hình sự,
+87,,,234,hình sự,
+87,,,244,hình sự,
+87,,,47,hình sự,
+87,,,2,,thi hành án dân sự
+87,,,6,,thi hành án dân sự
+87,,,7,,thi hành án dân sự
+87,,,7a,,thi hành án dân sự
+87,,,7b,,thi hành án dân sự
+87,,,9,,thi hành án dân sự
+87,,,30,,thi hành án dân sự
+88,a,2,244,hình sự,
+88,s,1,51,hình sự,
+88,,1,244,hình sự,
+88,,,244,hình sự,
+88,,,47,hình sự,
+88,,,106,tố tụng hình sự,
+88,,,136,tố tụng hình sự,
+88,,,2,,thi hành án dân sự
+88,,,6,,thi hành án dân sự
+88,,,7,,thi hành án dân sự
+88,,,9,,thi hành án dân sự
+88,,,30,,thi hành án dân sự
+89,a,1,244,hình sự,
+89,s,1,51,hình sự,
+89,,2,51,hình sự,
+89,b,2,106,tố tụng hình sự,
+89,,3,106,tố tụng hình sự,
+89,,1,244,hình sự,
+89,,2,90,,luật xử lý vi phạm hành chính
+89,,1,135,tố tụng hình sự,
+89,,2,135,tố tụng hình sự,
+89,,2,136,tố tụng hình sự,
+89,,,65,hình sự,
+89,,,47,hình sự,
+89,,,92,thi hành án hình sự,
+89,,,56,hình sự,
+89,,,331,tố tụng hình sự,
+89,,,333,tố tụng hình sự,
+90,a,1,244,hình sự,
+90,s,1,51,hình sự,
+90,,2,51,hình sự,
+90,,,38,hình sự,
+90,,,136,tố tụng hình sự,
+90,,,260,tố tụng hình sự,
+90,,,331,tố tụng hình sự,
+90,,,333,tố tụng hình sự,
+90,,,47,hình sự,
+90,,,106,tố tụng hình sự,
+91,a,1,244,hình sự,
+91,h,1,51,hình sự,
+91,s,1,51,hình sự,
+91,,2,51,hình sự,
+91,,1,92,thi hành án hình sự,
+91,,5,65,hình sự,
+91,,,47,hình sự,
+91,,,106,tố tụng hình sự,
+91,,,292,tố tụng hình sự,
+91,,,65,hình sự,
+91,,,136,tố tụng hình sự,
+92,b,1,234,hình sự,
+92,s,1,51,hình sự,
+92,,2,51,hình sự,
+92,n,1,51,hình sự,
+92,b,1,244,hình sự,
+92,,1,244,hình sự,
+92,,,35,hình sự,
+92,,,54,hình sự,
+92,,,136,tố tụng hình sự,
+93,a,3,244,hình sự,
+93,s,1,51,hình sự,
+93,,2,51,hình sự,
+93,a,2,106,tố tụng hình sự,
+93,,4,244,hình sự,
+93,,1,54,hình sự,
+93,,3,244,hình sự,
+93,,,54,hình sự,
+93,,,38,hình sự,
+94,s,1,51,hình sự,
+94,,2,51,hình sự,
+94,,1,244,hình sự,
+94,,,65,hình sự,
+94,,,87,thi hành án hình sự,
+94,,,92,thi hành án hình sự,
+94,,,136,tố tụng hình sự,
+94,,,331,tố tụng hình sự,
+94,,,332,tố tụng hình sự,
+94,,,333,tố tụng hình sự,
+95,a,1,244,hình sự,32/2020/HS-ST
+95,s,1,51,hình sự,32/2020/HS-ST
+95,,2,51,hình sự,32/2020/HS-ST
+95,a,1,355,tố tụng hình sự,32/2020/HS-ST
+95,,1,244,hình sự,32/2020/HS-ST
+95,,2,136,tố tụng hình sự,32/2020/HS-ST
+95,,,38,hình sự,32/2020/HS-ST
+95,,,46,hình sự,32/2020/HS-ST
+95,,,47,hình sự,32/2020/HS-ST
+95,,,48,hình sự,32/2020/HS-ST
+95,,,106,tố tụng hình sự,32/2020/HS-ST
+95,,,136,tố tụng hình sự,32/2020/HS-ST
+95,,,356,tố tụng hình sự,32/2020/HS-ST
+96,a,1,244,hình sự,
+96,s,1,51,hình sự,
+96,,2,51,hình sự,
+96,a,1,47,hình sự,
+96,a,2,106,tố tụng hình sự,
+96,d,3,106,tố tụng hình sự,
+96,i,1,51,hình sự,
+96,,1,65,hình sự,
+96,,2,65,hình sự,
+96,,5,65,hình sự,
+96,,1,106,tố tụng hình sự,
+96,,1,69,thi hành án hình sự,
+96,,,136,tố tụng hình sự,
+96,,,51,hình sự,
+96,,,331,tố tụng hình sự,
+96,,,332,tố tụng hình sự,
+96,,,333,tố tụng hình sự,
+96,,,65,hình sự,
+96,,,56,hình sự,
+96,,,46,hình sự,
+96,,,47,hình sự,
+96,,,106,tố tụng hình sự,
+97,a,1,244,hình sự,
+97,s,1,51,hình sự,
+97,,2,51,hình sự,
+97,,4,244,hình sự,
+97,,2,136,tố tụng hình sự,
+97,,1,100,thi hành án hình sự,
+97,,,65,hình sự,
+98,a,2,244,hình sự,
+98,b,1,51,hình sự,
+98,s,1,51,hình sự,
+98,,2,51,hình sự,
+98,a,1,47,hình sự,
+98,c,2,106,tố tụng hình sự,
+98,b,3,106,tố tụng hình sự,
+98,i,1,51,hình sự,
+98,,1,51,hình sự,
+98,,1,321,hình sự,
+98,,3,321,hình sự,
+98,,,54,hình sự,
+98,,,38,hình sự,
+98,,,36,hình sự,
+98,,,106,tố tụng hình sự,
+99,a,1,244,hình sự,
+99,s,1,51,hình sự,
+99,,2,51,hình sự,
+99,,4,244,hình sự,
+99,,2,136,tố tụng hình sự,
+99,,1,100,thi hành án hình sự,
+99,,,65,hình sự,
+100,a,1,244,hình sự,
+100,m,1,51,hình sự,
+100,s,1,51,hình sự,
+100,,,293,tố tụng hình sự,
+100,,,65,hình sự,
+100,,,46,hình sự,
+100,,,48,hình sự,
+100,,,106,tố tụng hình sự,
+100,,,135,tố tụng hình sự,
+100,,,136,tố tụng hình sự,
+100,,,92,thi hành án hình sự,
+101,s,1,51,hình sự,
+101,,2,51,hình sự,
+101,,1,244,hình sự,
+101,,1,51,hình sự,
+101,,,65,hình sự,
+101,,,47,hình sự,
+101,,,106,tố tụng hình sự,
+101,,,136,tố tụng hình sự,
+101,,,92,thi hành án hình sự,
+101,,,299,tố tụng hình sự,
+101,,,326,tố tụng hình sự,
+101,,,69,thi hành án hình sự,
+102,a,1,244,hình sự,38/2020/HS-ST
+102,h,2,244,hình sự,38/2020/HS-ST
+102,b,1,51,hình sự,38/2020/HS-ST
+102,s,1,51,hình sự,38/2020/HS-ST
+102,a,1,355,tố tụng hình sự,38/2020/HS-ST
+102,,2,51,hình sự,38/2020/HS-ST
+102,,2,136,tố tụng hình sự,38/2020/HS-ST
+102,,,356,tố tụng hình sự,38/2020/HS-ST
+102,,,58,hình sự,38/2020/HS-ST
+102,,,38,hình sự,38/2020/HS-ST
+103,a,2,244,hình sự,
+103,s,1,51,hình sự,
+103,,2,51,hình sự,
+103,c,1,47,hình sự,
+103,c,2,106,tố tụng hình sự,
+103,t,1,51,hình sự,
+103,c,3,106,tố tụng hình sự,
+103,d,3,106,tố tụng hình sự,
+103,,2,136,tố tụng hình sự,
+103,,4,244,hình sự,
+104,b,1,244,hình sự,
+104,s,1,51,hình sự,
+104,,2,51,hình sự,
+104,a,1,47,hình sự,
+104,c,1,47,hình sự,
+104,a,2,106,tố tụng hình sự,
+104,d,3,106,tố tụng hình sự,
+104,,1,65,hình sự,
+104,,2,65,hình sự,
+104,,5,65,hình sự,
+104,,2,136,tố tụng hình sự,
+104,,4,244,hình sự,
+104,,,92,thi hành án hình sự,
+105,a,1,244,hình sự,
+105,s,1,51,hình sự,
+105,h,1,51,hình sự,
+105,,2,51,hình sự,
+105,a,2,106,tố tụng hình sự,
+105,,1,69,thi hành án hình sự,
+105,,5,65,hình sự,
+105,,2,136,tố tụng hình sự,
+105,,,17,hình sự,
+105,,,58,hình sự,
+105,,,38,hình sự,
+105,,,65,hình sự,
+105,,,331,tố tụng hình sự,
+105,,,333,tố tụng hình sự,
+105,,,2,,thi hành án dân sự
+105,,,7,,thi hành án dân sự
+105,,,9,,thi hành án dân sự
+105,,,30,,thi hành án dân sự
+106,h,2,244,hình sự,
+106,b,1,51,hình sự,
+106,s,1,51,hình sự,
+106,v,1,51,hình sự,
+106,,2,51,hình sự,
+106,a,1,47,hình sự,
+106,b,1,47,hình sự,
+106,b,2,106,tố tụng hình sự,
+106,c,2,106,tố tụng hình sự,
+106,,1,51,hình sự,
+106,,4,244,hình sự,
+106,,2,136,tố tụng hình sự,
+106,,,54,hình sự,
+106,,,65,hình sự,
+106,,,234,hình sự,
+106,,,244,hình sự,
+107,i,2,244,hình sự,
+107,s,1,51,hình sự,
+107,,2,51,hình sự,
+107,a,2,106,tố tụng hình sự,
+107,c,2,106,tố tụng hình sự,
+107,,,135,tố tụng hình sự,
+107,,,136,tố tụng hình sự,
+107,,,244,hình sự,
+108,i,2,244,hình sự,
+108,s,1,51,hình sự,
+108,,2,51,hình sự,
+108,,1,244,hình sự,
+108,,,54,hình sự,
+108,,,45,tố tụng hình sự,
+108,,,46,tố tụng hình sự,
+108,,,260,tố tụng hình sự,
+108,,,268,tố tụng hình sự,
+108,,,269,tố tụng hình sự,
+108,,,299,tố tụng hình sự,
+108,,,326,tố tụng hình sự,
+108,,,327,tố tụng hình sự,
+108,,,65,hình sự,
+108,,,46,hình sự,
+108,,,47,hình sự,
+108,,,331,tố tụng hình sự,
+108,,,333,tố tụng hình sự,
+109,a,1,244,hình sự,
+109,h,1,51,hình sự,
+109,s,1,51,hình sự,
+109,,2,51,hình sự,
+109,,,65,hình sự,
+109,,,47,hình sự,
+109,,,106,tố tụng hình sự,
+109,,,91,thi hành án hình sự,
+109,,,136,tố tụng hình sự,
+109,,,331,tố tụng hình sự,
+109,,,333,tố tụng hình sự,
+110,a,3,244,hình sự,01/2020/HS-ST
+110,s,1,51,hình sự,01/2020/HS-ST
+110,t,1,51,hình sự,01/2020/HS-ST
+110,,2,51,hình sự,01/2020/HS-ST
+110,v,1,51,hình sự,01/2020/HS-ST
+110,e,2,32,hình sự,01/2020/HS-ST
+110,a,1,355,tố tụng hình sự,01/2020/HS-ST
+110,c,1,357,tố tụng hình sự,01/2020/HS-ST
+110,b,1,355,tố tụng hình sự,01/2020/HS-ST
+110,,1,54,hình sự,01/2020/HS-ST
+110,,2,54,hình sự,01/2020/HS-ST
+110,,4,244,hình sự,01/2020/HS-ST
+110,,3,244,hình sự,01/2020/HS-ST
+110,,1,51,hình sự,01/2020/HS-ST
+110,,,17,hình sự,01/2020/HS-ST
+110,,,58,hình sự,01/2020/HS-ST
+110,,,356,tố tụng hình sự,01/2020/HS-ST
+110,,,136,tố tụng hình sự,01/2020/HS-ST
+112,a,1,244,hình sự,
+112,h,1,51,hình sự,
+112,s,1,51,hình sự,
+112,,,65,hình sự,
+112,,,136,tố tụng hình sự,
+112,,,331,tố tụng hình sự,
+112,,,333,tố tụng hình sự,
+112,,,47,hình sự,
+112,,,92,thi hành án hình sự,
+113,d,2,244,hình sự,
+113,s,1,51,hình sự,
+113,h,1,51,hình sự,
+113,t,1,51,hình sự,
+113,,2,51,hình sự,
+113,,1,54,hình sự,
+113,,,47,hình sự,
+113,,,38,hình sự,
+113,,,106,tố tụng hình sự,
+114,a,1,244,hình sự,
+114,i,1,51,hình sự,
+114,s,1,51,hình sự,
+114,,2,51,hình sự,
+114,,2,54,hình sự,
+114,,4,7,,luật đa dạng sinh học
+114,,4,244,hình sự,
+114,,5,328,tố tụng hình sự,
+114,,,106,tố tụng hình sự,
+114,,,244,hình sự,
+114,,,65,hình sự,
+114,,,47,hình sự,
+115,a,1,244,hình sự,
+115,s,1,51,hình sự,
+115,,2,51,hình sự,
+115,,4,7,,luật đa dạng sinh học
+115,,4,244,hình sự,
+115,,2,136,tố tụng hình sự,
+115,,,65,hình sự,
+115,,,47,hình sự,
+115,,,106,tố tụng hình sự,
+116,c,1,191,hình sự,06/2020/HSST
+116,a,2,244,hình sự,06/2020/HSST
+116,i,1,51,hình sự,06/2020/HSST
+116,s,1,51,hình sự,06/2020/HSST
+116,,2,51,hình sự,06/2020/HSST
+116,a,1,55,hình sự,06/2020/HSST
+116,a,1,355,tố tụng hình sự,06/2020/HSST
+116,,2,135,tố tụng hình sự,06/2020/HSST
+116,,2,136,tố tụng hình sự,06/2020/HSST
+116,,2,262,tố tụng hình sự,06/2020/HSST
+116,,,355,tố tụng hình sự,06/2020/HSST
+116,,,356,tố tụng hình sự,06/2020/HSST
+116,,,333,tố tụng hình sự,06/2020/HSST
+116,,,109,tố tụng hình sự,06/2020/HSST
+116,,,113,tố tụng hình sự,06/2020/HSST
+116,,,119,tố tụng hình sự,06/2020/HSST
+116,,,347,tố tụng hình sự,06/2020/HSST
+117,a,1,244,hình sự,
+117,s,1,51,hình sự,
+117,a,1,47,hình sự,
+117,a,2,106,tố tụng hình sự,
+117,,3,106,tố tụng hình sự,
+117,,1,244,hình sự,
+117,,2,136,tố tụng hình sự,
+117,,,47,hình sự,
+117,,,106,tố tụng hình sự,
+117,,,38,hình sự,
+117,,,50,hình sự,
+117,,,331,tố tụng hình sự,
+117,,,333,tố tụng hình sự,
+118,b,1,244,hình sự,
+118,a,1,244,hình sự,
+118,s,1,51,hình sự,
+118,t,1,51,hình sự,
+118,,2,51,hình sự,
+118,b,2,106,tố tụng hình sự,
+118,a,3,106,tố tụng hình sự,
+118,a,2,106,tố tụng hình sự,
+118,,1,65,hình sự,
+118,,2,65,hình sự,
+118,,5,65,hình sự,
+118,,4,244,hình sự,
+118,,,58,hình sự,
+118,,,136,tố tụng hình sự,
+119,a,2,244,hình sự,67/2019/HS-ST
+119,s,1,51,hình sự,67/2019/HS-ST
+119,,2,51,hình sự,67/2019/HS-ST
+119,a,3,244,hình sự,67/2019/HS-ST
+119,b,1,355,tố tụng hình sự,67/2019/HS-ST
+119,a,2,357,tố tụng hình sự,67/2019/HS-ST
+119,,,244,hình sự,67/2019/HS-ST
+119,,,234,hình sự,67/2019/HS-ST
+119,,,54,hình sự,67/2019/HS-ST
+119,,,38,hình sự,67/2019/HS-ST
+119,,,336,tố tụng hình sự,67/2019/HS-ST
+119,,,337,tố tụng hình sự,67/2019/HS-ST
+120,a,1,244,hình sự,60/2019/HS-ST
+120,s,1,51,hình sự,60/2019/HS-ST
+120,,2,51,hình sự,60/2019/HS-ST
+120,a,1,355,tố tụng hình sự,60/2019/HS-ST
+120,b,1,355,tố tụng hình sự,60/2019/HS-ST
+120,e,1,357,tố tụng hình sự,60/2019/HS-ST
+120,,1,38,hình sự,60/2019/HS-ST
+120,,1,69,thi hành án hình sự,60/2019/HS-ST
+120,,,356,tố tụng hình sự,60/2019/HS-ST
+120,,,65,hình sự,60/2019/HS-ST
+120,,,56,hình sự,60/2019/HS-ST
+120,,,135,tố tụng hình sự,60/2019/HS-ST
+120,,,136,tố tụng hình sự,60/2019/HS-ST
+122,a,1,244,hình sự,201/2019/HS-ST
+122,s,1,51,hình sự,201/2019/HS-ST
+122,a,1,355,tố tụng hình sự,201/2019/HS-ST
+122,b,1,355,tố tụng hình sự,201/2019/HS-ST
+122,c,1,357,tố tụng hình sự,201/2019/HS-ST
+122,,2,51,hình sự,201/2019/HS-ST
+122,,1,244,hình sự,201/2019/HS-ST
+122,,,356,tố tụng hình sự,201/2019/HS-ST
+122,,,38,hình sự,201/2019/HS-ST
+123,a,3,244,hình sự,
+123,s,1,51,hình sự,
+123,a,1,47,hình sự,
+123,a,2,106,tố tụng hình sự,
+123,,2,135,tố tụng hình sự,
+123,,2,136,tố tụng hình sự,
+123,,,38,hình sự,
+123,,,50,hình sự,
+123,,,106,tố tụng hình sự,
+124,a,1,244,hình sự,
+124,s,1,51,hình sự,
+124,,2,51,hình sự,
+124,b,1,46,hình sự,
+124,a,2,106,tố tụng hình sự,
+124,,1,65,hình sự,
+124,,2,65,hình sự,
+124,,1,47,hình sự,
+124,,1,69,thi hành án hình sự,
+124,,,65,hình sự,
+124,,,56,hình sự,
+125,h,2,244,hình sự,
+125,b,1,51,hình sự,
+125,s,1,51,hình sự,
+125,,2,51,hình sự,
+125,a,2,106,tố tụng hình sự,
+125,,2,136,tố tụng hình sự,
+125,,,234,hình sự,
+125,,,244,hình sự,
+125,,,58,hình sự,
+126,a,1,244,hình sự,
+126,s,1,51,hình sự,
+126,,2,51,hình sự,
+126,,2,136,tố tụng hình sự,
+126,,,65,hình sự,
+126,,,47,hình sự,
+126,,,106,tố tụng hình sự,
+126,,,56,hình sự,
+127,a,1,244,hình sự,
+127,s,1,51,hình sự,
+127,,2,51,hình sự,
+127,a,1,47,hình sự,
+127,b,1,47,hình sự,
+127,a,2,106,tố tụng hình sự,
+127,b,2,106,tố tụng hình sự,
+127,c,2,106,tố tụng hình sự,
+127,,4,244,hình sự,
+127,,,65,hình sự,
+127,,,2,,thi hành án dân sự
+127,,,6,,thi hành án dân sự
+127,,,7,,thi hành án dân sự
+127,,,9,,thi hành án dân sự
+127,,,30,,thi hành án dân sự
+128,a,2,244,hình sự,
+128,i,2,244,hình sự,
+128,s,1,51,hình sự,
+128,t,1,51,hình sự,
+128,,2,51,hình sự,
+128,,4,244,hình sự,
+128,,1,69,thi hành án hình sự,
+128,,,54,hình sự,
+128,,,65,hình sự,
+128,,,106,tố tụng hình sự,
+128,,,46,hình sự,
+128,,,136,tố tụng hình sự,
+129,a,1,244,hình sự,
+129,h,1,51,hình sự,
+129,s,1,51,hình sự,
+129,,2,51,hình sự,
+129,,1,69,thi hành án hình sự,
+129,,,65,hình sự,
+129,,,106,tố tụng hình sự,
+129,,,331,tố tụng hình sự,
+129,,,333,tố tụng hình sự,
+129,,,135,tố tụng hình sự,
+129,,,136,tố tụng hình sự,
+130,a,1,244,hình sự,
+130,s,1,51,hình sự,
+130,t,1,51,hình sự,
+130,,2,51,hình sự,
+130,a,1,47,hình sự,
+130,c,2,106,tố tụng hình sự,
+130,,1,65,hình sự,
+130,,2,65,hình sự,
+130,,2,135,tố tụng hình sự,
+130,,2,136,tố tụng hình sự,
+130,,1,69,thi hành án hình sự,
+130,,,106,tố tụng hình sự,
+131,a,1,244,hình sự,12/2019/HS-ST
+131,s,1,51,hình sự,12/2019/HS-ST
+131,b,1,355,tố tụng hình sự,12/2019/HS-ST
+131,c,1,357,tố tụng hình sự,12/2019/HS-ST
+131,,2,51,hình sự,12/2019/HS-ST
+131,,1,50,hình sự,12/2019/HS-ST
+131,,2,135,tố tụng hình sự,12/2019/HS-ST
+131,,,38,hình sự,12/2019/HS-ST
+131,,,65,hình sự,12/2019/HS-ST
+132,b,1,244,hình sự,58/2018/HS-ST
+132,s,1,51,hình sự,58/2018/HS-ST
+132,a,1,355,tố tụng hình sự,58/2018/HS-ST
+132,,,58,hình sự,58/2018/HS-ST
+132,,,37,hình sự,58/2018/HS-ST
+132,,,38,hình sự,58/2018/HS-ST
+132,,,356,tố tụng hình sự,58/2018/HS-ST
+133,b,1,244,hình sự,61A/2020/HS-ST
+133,s,1,51,hình sự,61A/2020/HS-ST
+133,,2,51,hình sự,61A/2020/HS-ST
+133,a,1,355,tố tụng hình sự,61A/2020/HS-ST
+133,b,1,355,tố tụng hình sự,61A/2020/HS-ST
+133,e,1,357,tố tụng hình sự,61A/2020/HS-ST
+133,,,136,tố tụng hình sự,61A/2020/HS-ST
+133,,,65,hình sự,61A/2020/HS-ST
+133,,,356,tố tụng hình sự,61A/2020/HS-ST
+133,,,38,hình sự,61A/2020/HS-ST
+134,a,1,244,hình sự,
+134,h,1,51,hình sự,
+134,s,1,51,hình sự,
+134,,2,51,hình sự,
+134,,1,51,hình sự,
+134,,,65,hình sự,
+135,a,1,244,hình sự,198/2020/HS-ST
+135,,4,244,hình sự,198/2020/HS-ST
+135,h,1,51,hình sự,198/2020/HS-ST
+135,s,1,51,hình sự,198/2020/HS-ST
+135,b,1,355,tố tụng hình sự,198/2020/HS-ST
+135,,2,355,tố tụng hình sự,198/2020/HS-ST
+135,e,1,357,tố tụng hình sự,198/2020/HS-ST
+135,,1,244,hình sự,198/2020/HS-ST
+135,,,38,hình sự,198/2020/HS-ST
+135,,,65,hình sự,198/2020/HS-ST
+136,a,1,244,hình sự,185/2020/HSST
+136,s,1,51,hình sự,185/2020/HSST
+136,,2,51,hình sự,185/2020/HSST
+136,b,1,355,tố tụng hình sự,185/2020/HSST
+136,e,1,357,tố tụng hình sự,185/2020/HSST
+136,,3,92,thi hành án hình sự,185/2020/HSST
+136,,,38,hình sự,185/2020/HSST
+136,,,65,hình sự,185/2020/HSST
+136,,,136,tố tụng hình sự,185/2020/HSST
+137,a,1,244,hình sự,
+137,s,1,51,hình sự,
+137,u,1,51,hình sự,
+137,,2,51,hình sự,
+137,,1,51,hình sự,
+137,,,234,hình sự,
+137,,,244,hình sự,
+137,,,54,hình sự,
+137,,,38,hình sự,
+137,,,47,hình sự,
+137,,,106,tố tụng hình sự,
+137,,,135,tố tụng hình sự,
+137,,,136,tố tụng hình sự,
+137,,,2,,thi hành án dân sự
+137,,,6,,thi hành án dân sự
+137,,,7,,thi hành án dân sự
+137,,,9,,thi hành án dân sự
+137,,,30,,thi hành án dân sự
+138,a,1,244,hình sự,
+138,,4,244,hình sự,
+138,s,1,51,hình sự,
+138,t,1,51,hình sự,
+138,,2,92,thi hành án hình sự,
+138,,2,106,tố tụng hình sự,
+138,,,65,hình sự,
+138,,,47,hình sự,
+139,a,1,244,hình sự,
+139,s,1,51,hình sự,
+139,,2,51,hình sự,
+139,,1,244,hình sự,
+139,,,47,tố tụng hình sự,
+139,,,106,tố tụng hình sự,
+139,,,38,hình sự,
+139,,,47,hình sự,
+139,,,331,tố tụng hình sự,
+139,,,333,tố tụng hình sự,
+140,b,2,244,hình sự,
+140,s,1,51,hình sự,
+140,x,1,51,hình sự,
+140,,2,51,hình sự,
+140,,1,69,thi hành án hình sự,
+140,,2,136,tố tụng hình sự,
+140,,,54,hình sự,
+140,,,65,hình sự,
+140,,,234,hình sự,
+140,,,136,tố tụng hình sự,
+140,,,46,hình sự,
+140,,,47,hình sự,
+140,,,106,tố tụng hình sự,
+140,,,2,,thi hành án dân sự
+140,,,30,,thi hành án dân sự
+141,d,2,244,hình sự,130/2020/HS-ST
+141,i,2,244,hình sự,130/2020/HS-ST
+141,s,1,51,hình sự,130/2020/HS-ST
+141,,2,51,hình sự,130/2020/HS-ST
+141,a,1,355,tố tụng hình sự,130/2020/HS-ST
+141,,,356,tố tụng hình sự,130/2020/HS-ST
+142,a,1,244,hình sự,
+142,s,1,51,hình sự,
+142,,2,51,hình sự,
+142,,,65,hình sự,
+142,,,47,hình sự,
+142,,,106,tố tụng hình sự,
+142,,,135,tố tụng hình sự,
+142,,,136,tố tụng hình sự,
+142,,,331,tố tụng hình sự,
+142,,,333,tố tụng hình sự,
+143,a,1,244,hình sự,26/2020/HS-ST
+143,s,1,51,hình sự,26/2020/HS-ST
+143,,2,51,hình sự,26/2020/HS-ST
+143,a,1,355,tố tụng hình sự,26/2020/HS-ST
+143,b,1,355,tố tụng hình sự,26/2020/HS-ST
+143,e,1,357,tố tụng hình sự,26/2020/HS-ST
+143,,3,92,thi hành án hình sự,26/2020/HS-ST
+143,,,356,tố tụng hình sự,26/2020/HS-ST
+143,,,65,hình sự,26/2020/HS-ST
+143,,,56,hình sự,26/2020/HS-ST
+143,,,135,tố tụng hình sự,26/2020/HS-ST
+143,,,136,tố tụng hình sự,26/2020/HS-ST
+144,b,1,244,hình sự,
+144,s,1,51,hình sự,
+144,t,1,51,hình sự,
+144,,2,51,hình sự,
+144,,2,136,tố tụng hình sự,
+144,,,65,hình sự,
+144,,,52,hình sự,
+144,,,92,thi hành án hình sự,
+144,,,47,hình sự,
+144,,,106,tố tụng hình sự,
+144,,,331,tố tụng hình sự,
+144,,,333,tố tụng hình sự,
+145,a,2,244,hình sự,
+145,g,2,244,hình sự,
+145,h,2,244,hình sự,
+145,m,1,51,hình sự,
+145,s,1,51,hình sự,
+145,,2,51,hình sự,
+145,a,1,47,hình sự,
+145,b,1,47,hình sự,
+145,b,2,106,tố tụng hình sự,
+145,c,2,106,tố tụng hình sự,
+145,,1,51,hình sự,
+145,,4,244,hình sự,
+145,,2,136,tố tụng hình sự,
+145,,,54,hình sự,
+145,,,234,hình sự,
+145,,,244,hình sự,
+146,a,1,244,hình sự,
+146,s,1,51,hình sự,
+146,,2,51,hình sự,
+146,,4,244,hình sự,
+146,,2,136,tố tụng hình sự,
+146,,,47,hình sự,
+146,,,106,tố tụng hình sự,
+146,,,136,tố tụng hình sự,
+146,,,331,tố tụng hình sự,
+146,,,332,tố tụng hình sự,
+146,,,333,tố tụng hình sự,
+146,,,37,tố tụng hình sự,
+146,,,42,tố tụng hình sự,
+146,,,135,tố tụng hình sự,
+147,a,1,244,hình sự,166/2020/HS-ST
+147,s,1,51,hình sự,166/2020/HS-ST
+147,,2,51,hình sự,166/2020/HS-ST
+147,a,1,355,tố tụng hình sự,166/2020/HS-ST
+147,,2,355,tố tụng hình sự,166/2020/HS-ST
+147,,,65,hình sự,166/2020/HS-ST
+147,,,356,tố tụng hình sự,166/2020/HS-ST
+148,a,1,244,hình sự,166/2020/HS-ST
+148,s,1,51,hình sự,166/2020/HS-ST
+148,,2,51,hình sự,166/2020/HS-ST
+148,a,1,355,tố tụng hình sự,166/2020/HS-ST
+148,,2,355,tố tụng hình sự,166/2020/HS-ST
+148,,,65,hình sự,166/2020/HS-ST
+148,,,356,tố tụng hình sự,166/2020/HS-ST
+149,a,1,244,hình sự,
+149,s,1,51,hình sự,
+149,,2,51,hình sự,
+149,a,3,106,tố tụng hình sự,
+149,,1,65,hình sự,
+149,,2,65,hình sự,
+149,,2,136,tố tụng hình sự,
+149,,,92,thi hành án hình sự,
+150,a,1,244,hình sự,18/2021/HSST
+150,s,1,51,hình sự,18/2021/HSST
+150,,2,51,hình sự,18/2021/HSST
+150,b,1,355,tố tụng hình sự,18/2021/HSST
+150,e,1,357,tố tụng hình sự,18/2021/HSST
+150,,1,51,hình sự,18/2021/HSST
+150,,,38,hình sự,18/2021/HSST
+150,,,65,hình sự,18/2021/HSST
+150,,,136,tố tụng hình sự,18/2021/HSST
+151,a,1,244,hình sự,
+151,s,1,51,hình sự,
+151,,2,51,hình sự,
+151,,1,69,thi hành án hình sự,
+151,,,65,hình sự,
+151,,,47,hình sự,
+151,,,106,tố tụng hình sự,
+151,,,136,tố tụng hình sự,
+151,,,2,,thi hành án dân sự
+151,,,6,,thi hành án dân sự
+151,,,7,,thi hành án dân sự
+151,,,9,,thi hành án dân sự
+151,,,30,,thi hành án dân sự
+152,a,2,244,hình sự,08/2021/HSST
+152,s,1,51,hình sự,08/2021/HSST
+152,,2,51,hình sự,08/2021/HSST
+152,a,1,355,tố tụng hình sự,08/2021/HSST
+152,,,38,hình sự,08/2021/HSST
+152,,,15,hình sự,08/2021/HSST
+152,,,57,hình sự,08/2021/HSST
+152,,,356,tố tụng hình sự,08/2021/HSST
+153,b,1,244,hình sự,
+153,s,1,51,hình sự,
+153,v,1,51,hình sự,
+153,,2,51,hình sự,
+153,a,2,106,tố tụng hình sự,
+153,,4,244,hình sự,
+153,,1,47,hình sự,
+153,,2,136,tố tụng hình sự,
+153,b,3,106,tố tụng hình sự,
+153,,,65,hình sự,
+153,,,244,hình sự,
+153,,,51,hình sự,
+153,,,331,tố tụng hình sự,
+153,,,333,tố tụng hình sự,
+153,,,92,thi hành án hình sự,
+153,,,56,hình sự,
+154,d,3,244,hình sự,61/2020/HS-ST
+154,,4,244,hình sự,61/2020/HS-ST
+154,s,1,51,hình sự,61/2020/HS-ST
+154,,2,51,hình sự,61/2020/HS-ST
+154,a,1,355,tố tụng hình sự,61/2020/HS-ST
+154,,,38,hình sự,61/2020/HS-ST
+155,a,1,244,hình sự,169/2020/HSST
+155,s,1,51,hình sự,169/2020/HSST
+155,,2,51,hình sự,169/2020/HSST
+155,b,1,355,tố tụng hình sự,169/2020/HSST
+155,e,1,357,tố tụng hình sự,169/2020/HSST
+155,a,1,355,tố tụng hình sự,169/2020/HSST
+155,,3,92,thi hành án hình sự,169/2020/HSST
+155,,,38,hình sự,169/2020/HSST
+155,,,356,tố tụng hình sự,169/2020/HSST
+155,,,65,hình sự,169/2020/HSST
+155,,,136,tố tụng hình sự,169/2020/HSST
+156,a,1,244,hình sự,07/2021/HS-ST
+156,s,1,51,hình sự,07/2021/HS-ST
+156,a,1,355,tố tụng hình sự,07/2021/HS-ST
+156,,,356,tố tụng hình sự,07/2021/HS-ST
+157,b,1,244,hình sự,
+157,s,1,51,hình sự,
+157,,2,51,hình sự,
+157,,2,135,tố tụng hình sự,
+157,,2,126,tố tụng hình sự,
+157,,,35,hình sự,
+157,,,52,hình sự,
+158,a,1,244,hình sự,
+158,,4,244,hình sự,
+158,s,1,51,hình sự,
+158,,2,51,hình sự,
+158,a,2,106,tố tụng hình sự,
+158,c,2,106,tố tụng hình sự,
+158,a,3,106,tố tụng hình sự,
+158,,2,92,thi hành án hình sự,
+158,,,65,hình sự,
+159,b,1,244,hình sự,
+159,s,1,51,hình sự,
+159,t,1,51,hình sự,
+159,,2,51,hình sự,
+159,a,1,47,hình sự,
+159,a,2,106,tố tụng hình sự,
+159,,1,244,hình sự,
+159,,1,54,hình sự,
+159,,3,54,hình sự,
+159,,2,136,tố tụng hình sự,
+159,,1,51,hình sự,
+159,,,65,hình sự,
+159,,,36,hình sự,
+159,,,54,hình sự,
+159,,,38,hình sự,
+159,,,50,hình sự,
+159,,,331,tố tụng hình sự,
+159,,,333,tố tụng hình sự,
+159,,,92,thi hành án hình sự,
+159,,,100,thi hành án hình sự,
+160,s,1,51,hình sự,
+160,,2,51,hình sự,
+160,,1,244,hình sự,
+160,,,47,hình sự,
+160,,,48,hình sự,
+160,,,106,tố tụng hình sự,
+160,,,65,hình sự,
+160,,,262,tố tụng hình sự,
+160,,,331,tố tụng hình sự,
+160,,,333,tố tụng hình sự,
+160,,,336,tố tụng hình sự,
+160,,,337,tố tụng hình sự,
+160,,,136,tố tụng hình sự,
+161,a,1,244,hình sự,
+161,s,1,51,hình sự,
+161,,2,51,hình sự,
+161,a,1,47,hình sự,
+161,a,2,106,tố tụng hình sự,
+161,,4,244,hình sự,
+161,,2,35,hình sự,
+161,,2,135,tố tụng hình sự,
+161,,2,136,tố tụng hình sự,
+161,,,65,hình sự,
+161,,,47,hình sự,
+161,,,106,tố tụng hình sự,
+161,,,2,,thi hành án dân sự
+161,,,6,,thi hành án dân sự
+161,,,7,,thi hành án dân sự
+161,,,7a,,thi hành án dân sự
+161,,,7b,,thi hành án dân sự
+161,,,9,,thi hành án dân sự
+161,,,30,,thi hành án dân sự
+162,a,1,244,hình sự,
+162,s,1,51,hình sự,
+162,,2,51,hình sự,
+162,,4,244,hình sự,
+162,,1,47,hình sự,
+162,,,38,hình sự,
+162,,,47,hình sự,
+162,,,106,tố tụng hình sự,
+162,,,65,hình sự,
+162,,,136,tố tụng hình sự,
+162,,,331,tố tụng hình sự,
+162,,,333,tố tụng hình sự,
+163,a,1,244,hình sự,
+163,s,1,51,hình sự,
+163,,,38,hình sự,
+163,,,47,hình sự,
+163,,,106,tố tụng hình sự,
+163,,,135,tố tụng hình sự,
+163,,,136,tố tụng hình sự,
+163,,,331,tố tụng hình sự,
+163,,,333,tố tụng hình sự,
+164,a,1,244,hình sự,
+164,s,1,51,hình sự,
+164,,2,136,tố tụng hình sự,
+164,,,38,hình sự,
+164,,,47,hình sự,
+164,,,106,tố tụng hình sự,
+164,,,52,hình sự,
+164,,,331,tố tụng hình sự,
+164,,,333,tố tụng hình sự,
+165,a,1,244,hình sự,
+165,s,1,51,hình sự,
+165,,2,51,hình sự,
+165,,1,92,thi hành án hình sự,
+165,,,52,hình sự,
+165,,,65,hình sự,
+165,,,136,tố tụng hình sự,
+165,,,331,tố tụng hình sự,
+165,,,332,tố tụng hình sự,
+165,,,333,tố tụng hình sự,
+167,a,1,244,hình sự,20/2021/HS-ST
+167,s,1,51,hình sự,20/2021/HS-ST
+167,,2,51,hình sự,20/2021/HS-ST
+167,i,1,51,hình sự,20/2021/HS-ST
+167,b,1,355,tố tụng hình sự,20/2021/HS-ST
+167,e,1,357,tố tụng hình sự,20/2021/HS-ST
+167,,1,244,hình sự,20/2021/HS-ST
+167,,2,136,tố tụng hình sự,20/2021/HS-ST
+167,,,17,hình sự,20/2021/HS-ST
+167,,,38,hình sự,20/2021/HS-ST
+167,,,58,hình sự,20/2021/HS-ST
+167,,,65,hình sự,20/2021/HS-ST
+168,a,1,244,hình sự,
+168,s,1,51,hình sự,
+168,,2,51,hình sự,
+168,,1,69,thi hành án hình sự,
+168,,,65,hình sự,
+168,,,47,hình sự,
+168,,,106,tố tụng hình sự,
+168,,,136,tố tụng hình sự,
+168,,,331,tố tụng hình sự,
+168,,,333,tố tụng hình sự,
+169,a,1,244,hình sự,
+169,s,1,51,hình sự,
+169,,2,51,hình sự,
+169,,3,92,thi hành án hình sự,
+169,,,65,hình sự,
+169,,,47,hình sự,
+169,,,106,tố tụng hình sự,
+169,,,136,tố tụng hình sự,
+170,i,1,51,hình sự,
+170,s,1,51,hình sự,
+170,,2,51,hình sự,
+170,,1,244,hình sự,
+170,,,51,hình sự,
+170,,,52,hình sự,
+170,,,65,hình sự,
+170,,,47,hình sự,
+170,,,106,tố tụng hình sự,
+170,,,136,tố tụng hình sự,
+171,i,1,51,hình sự,
+171,s,1,51,hình sự,
+171,,2,51,hình sự,
+171,,1,244,hình sự,
+171,,,51,hình sự,
+171,,,52,hình sự,
+171,,,65,hình sự,
+171,,,47,hình sự,
+171,,,106,tố tụng hình sự,
+171,,,136,tố tụng hình sự,
+172,a,3,244,hình sự,
+172,s,1,51,hình sự,
+172,,,38,hình sự,
+172,,,54,hình sự,
+172,,,47,hình sự,
+172,,,48,hình sự,
+172,,,106,tố tụng hình sự,
+172,,,2,,thi hành án dân sự
+172,,,6,,thi hành án dân sự
+172,,,7,,thi hành án dân sự
+172,,,9,,thi hành án dân sự
+172,,,30,,thi hành án dân sự
+173,s,1,51,hình sự,02/2021/HS-ST
+173,d,2,290,tố tụng hình sự,02/2021/HS-ST
+173,a,1,355,tố tụng hình sự,02/2021/HS-ST
+173,,2,244,hình sự,02/2021/HS-ST
+173,,,356,tố tụng hình sự,02/2021/HS-ST
+173,,,136,tố tụng hình sự,02/2021/HS-ST
+174,b,1,244,hình sự,
+174,s,1,51,hình sự,
+174,,2,51,hình sự,
+174,,,65,hình sự,
+174,,,106,tố tụng hình sự,
+174,,,136,tố tụng hình sự,
+174,,,331,tố tụng hình sự,
+174,,,333,tố tụng hình sự,
+174,,,337,tố tụng hình sự,
+175,b,1,244,hình sự,
+175,s,1,51,hình sự,
+175,,2,51,hình sự,
+175,a,1,47,hình sự,
+175,a,2,106,tố tụng hình sự,
+175,b,3,106,tố tụng hình sự,
+175,,1,106,tố tụng hình sự,
+175,,1,52,hình sự,
+175,,4,244,hình sự,
+175,,1,292,tố tụng hình sự,
+175,,1,333,tố tụng hình sự,
+175,,1,65,hình sự,
+175,,2,65,hình sự,
+175,,5,65,hình sự,
+175,,3,92,thi hành án hình sự,
+175,,2,136,tố tụng hình sự,
+175,,,65,hình sự,
+175,,,92,thi hành án hình sự,
+175,,,234,hình sự,
+175,,,244,hình sự,
+175,,,331,tố tụng hình sự,
+175,,,56,hình sự,
+176,a,2,244,hình sự,
+176,s,1,51,hình sự,
+176,i,1,51,hình sự,
+176,,2,51,hình sự,
+176,a,2,106,tố tụng hình sự,
+176,b,2,106,tố tụng hình sự,
+176,d,3,106,tố tụng hình sự,
+176,,2,136,tố tụng hình sự,
+176,,,38,hình sự,
+176,,,106,tố tụng hình sự,
+176,,,54,hình sự,
+177,a,1,244,hình sự,
+177,s,1,51,hình sự,
+177,,2,51,hình sự,
+177,c,1,47,hình sự,
+177,,2,136,tố tụng hình sự,
+177,,,2,,thi hành án dân sự
+177,,,30,,thi hành án dân sự
+178,a,1,244,hình sự,
+178,s,1,51,hình sự,
+178,,2,51,hình sự,
+178,,2,136,tố tụng hình sự,
+178,,,65,hình sự,
+178,,,47,hình sự,
+178,,,106,tố tụng hình sự,
+178,,,52,hình sự,
+178,,,331,tố tụng hình sự,
+178,,,56,hình sự,
+180,b,1,244,hình sự,
+180,s,1,51,hình sự,
+180,,,38,hình sự,
+180,,,244,hình sự,
+180,,,47,hình sự,
+180,,,106,tố tụng hình sự,
+180,,,136,tố tụng hình sự,
+181,a,1,244,hình sự,
+181,s,1,51,hình sự,
+181,,2,51,hình sự,
+181,,,38,hình sự,
+181,,,47,hình sự,
+181,,,106,tố tụng hình sự,
+181,,,136,tố tụng hình sự,
+181,,,331,tố tụng hình sự,
+181,,,333,tố tụng hình sự,
+182,a,2,244,hình sự,
+182,s,1,51,hình sự,
+182,,2,51,hình sự,
+182,a,2,106,tố tụng hình sự,
+182,b,2,106,tố tụng hình sự,
+182,c,2,106,tố tụng hình sự,
+182,a,3,106,tố tụng hình sự,
+182,,4,244,hình sự,
+182,,1,47,hình sự,
+182,,2,136,tố tụng hình sự,
+182,,,38,hình sự,
+182,,,135,tố tụng hình sự,
+183,a,1,244,hình sự,
+183,h,1,51,hình sự,
+183,s,1,51,hình sự,
+183,a,1,47,hình sự,
+183,,2,136,tố tụng hình sự,
+183,,,65,hình sự,
+183,,,106,tố tụng hình sự,
+183,,,331,tố tụng hình sự,
+183,,,333,tố tụng hình sự,
+184,a,1,244,hình sự,
+184,s,1,51,hình sự,
+184,,2,51,hình sự,
+184,,4,244,hình sự,
+184,,2,136,tố tụng hình sự,
+184,,,65,hình sự,
+184,,,47,hình sự,
+184,,,106,tố tụng hình sự,
+184,,,2,,thi hành án dân sự
+184,,,6,,thi hành án dân sự
+184,,,7,,thi hành án dân sự
+184,,,9,,thi hành án dân sự
+184,,,30,,thi hành án dân sự
+185,a,1,244,hình sự,
+185,s,1,51,hình sự,
+185,,2,51,hình sự,
+185,a,1,47,hình sự,
+185,b,1,47,hình sự,
+185,a,2,106,tố tụng hình sự,
+185,b,2,106,tố tụng hình sự,
+185,c,2,106,tố tụng hình sự,
+185,,3,106,tố tụng hình sự,
+185,h,1,51,hình sự,
+185,,1,244,hình sự,
+185,,1,51,hình sự,
+185,,2,136,tố tụng hình sự,
+185,,1,65,hình sự,
+185,,2,65,hình sự,
+185,,5,65,hình sự,
+185,,2,106,tố tụng hình sự,
+185,,3,106,tố tụng hình sự,
+185,,,17,hình sự,
+185,,,38,hình sự,
+185,,,50,hình sự,
+185,,,65,hình sự,
+185,,,331,tố tụng hình sự,
+185,,,333,tố tụng hình sự,
+186,a,1,244,hình sự,
+186,s,1,51,hình sự,
+186,t,1,51,hình sự,
+186,,2,51,hình sự,
+186,d,3,106,tố tụng hình sự,
+186,,4,244,hình sự,
+186,,,65,hình sự,
+186,,,293,tố tụng hình sự,
+186,,,244,hình sự,
+186,,,234,hình sự,
+186,,,56,hình sự,
+186,,,47,hình sự,
+186,,,106,tố tụng hình sự,
+186,,,135,tố tụng hình sự,
+186,,,136,tố tụng hình sự,
+187,d,3,106,tố tụng hình sự,
+187,b,1,244,hình sự,
+187,s,1,51,hình sự,
+187,,2,51,hình sự,
+187,,4,244,hình sự,
+187,,,65,hình sự,
+187,,,46,hình sự,
+187,,,106,tố tụng hình sự,
+187,,,135,tố tụng hình sự,
+187,,,136,tố tụng hình sự,
+187,,,87,thi hành án hình sự,
+187,,,92,thi hành án hình sự,
+188,a,1,244,hình sự,
+188,s,1,51,hình sự,
+188,,2,51,hình sự,
+188,,1,51,hình sự,
+188,,,65,hình sự,
+188,,,47,hình sự,
+188,,,106,tố tụng hình sự,
+188,,,52,hình sự,
+188,,,331,tố tụng hình sự,
+188,,,333,tố tụng hình sự,
+188,,,92,thi hành án hình sự,
+189,b,1,244,hình sự,71/2021/HSST
+189,s,1,51,hình sự,71/2021/HSST
+189,,2,51,hình sự,71/2021/HSST
+189,b,1,355,tố tụng hình sự,71/2021/HSST
+189,e,1,357,tố tụng hình sự,71/2021/HSST
+189,a,1,355,tố tụng hình sự,71/2021/HSST
+189,,1,51,hình sự,71/2021/HSST
+189,,,38,hình sự,71/2021/HSST
+189,,,65,hình sự,71/2021/HSST
+189,,,136,tố tụng hình sự,71/2021/HSST
+190,a,3,244,hình sự,86/2021/HS-ST
+190,s,1,51,hình sự,86/2021/HS-ST
+190,b,1,51,hình sự,86/2021/HS-ST
+190,,2,51,hình sự,86/2021/HS-ST
+190,b,1,355,tố tụng hình sự,86/2021/HS-ST
+190,c,1,357,tố tụng hình sự,86/2021/HS-ST
+190,,3,244,hình sự,86/2021/HS-ST
+190,,1,51,hình sự,86/2021/HS-ST
+190,,,54,hình sự,86/2021/HS-ST
+191,a,3,244,hình sự,
+191,s,1,51,hình sự,
+191,,2,51,hình sự,
+191,,,38,hình sự,
+191,,,50,hình sự,
+191,,,54,hình sự,
+191,,,47,hình sự,
+191,,,106,tố tụng hình sự,
+193,a,1,244,hình sự,
+193,s,1,51,hình sự,
+193,,2,51,hình sự,
+193,h,1,51,hình sự,
+193,,,65,hình sự,
+193,,,47,hình sự,
+193,,,106,tố tụng hình sự,
+193,,,244,hình sự,
+193,,,92,thi hành án hình sự,
+193,,,136,tố tụng hình sự,
+193,,,2,,thi hành án dân sự
+193,,,6,,thi hành án dân sự
+193,,,7,,thi hành án dân sự
+193,,,7a,,thi hành án dân sự
+193,,,7b,,thi hành án dân sự
+193,,,9,,thi hành án dân sự
+193,,,30,,thi hành án dân sự
+194,b,1,244,hình sự,
+194,s,1,51,hình sự,
+194,,2,51,hình sự,
+194,a,1,46,hình sự,
+194,b,1,47,hình sự,
+194,,2,106,tố tụng hình sự,
+194,,1,47,hình sự,
+194,,2,136,tố tụng hình sự,
+194,,,65,hình sự,
+194,,,47,hình sự,
+194,,,234,hình sự,
+194,,,92,thi hành án hình sự,
+194,,,331,tố tụng hình sự,
+194,,,333,tố tụng hình sự,
+196,a,1,244,hình sự,
+196,s,1,51,hình sự,
+196,,2,51,hình sự,
+196,,,65,hình sự,
+196,,,47,hình sự,
+196,,,106,tố tụng hình sự,
+196,,,136,tố tụng hình sự,
+196,,,331,tố tụng hình sự,
+196,,,333,tố tụng hình sự,
+197,b,1,244,hình sự,
+197,s,1,51,hình sự,
+197,,2,51,hình sự,
+197,,2,136,tố tụng hình sự,
+197,,,65,hình sự,
+197,,,92,thi hành án hình sự,
+197,,,47,hình sự,
+197,,,106,tố tụng hình sự,
+197,,,331,tố tụng hình sự,
+197,,,333,tố tụng hình sự,
+197,,,337,tố tụng hình sự,
+198,c,1,244,hình sự,
+198,s,1,51,hình sự,
+198,,2,136,tố tụng hình sự,
+198,,,46,hình sự,
+198,,,47,hình sự,
+198,,,106,tố tụng hình sự,
+198,,,244,hình sự,
+199,o,1,46,hình sự,
+199,p,1,46,hình sự,
+199,k,1,46,hình sự,
+199,,2,46,hình sự,
+199,b,1,244,hình sự,
+199,s,1,51,hình sự,
+199,,2,51,hình sự,
+199,t,1,51,hình sự,
+199,a,1,47,hình sự,
+199,c,1,47,hình sự,
+199,,2,47,hình sự,
+199,a,2,106,tố tụng hình sự,
+199,c,2,106,tố tụng hình sự,
+199,a,3,106,tố tụng hình sự,
+199,,2,275,hình sự,
+199,,1,52,hình sự,
+199,,3,52,hình sự,
+199,,2,175,hình sự,
+199,,1,244,hình sự,
+199,,4,244,hình sự,
+199,,2,136,tố tụng hình sự,
+199,,,18,hình sự,
+199,,,20,hình sự,
+199,,,53,hình sự,
+199,,,47,hình sự,
+199,,,60,hình sự,
+199,,,17,hình sự,
+199,,,58,hình sự,
+199,,,65,hình sự,
+199,,,106,tố tụng hình sự,
+200,a,2,244,hình sự,07/2021/HS-ST
+200,g,2,244,hình sự,07/2021/HS-ST
+200,m,1,51,hình sự,07/2021/HS-ST
+200,s,1,51,hình sự,07/2021/HS-ST
+200,,2,51,hình sự,07/2021/HS-ST
+200,a,1,355,tố tụng hình sự,07/2021/HS-ST
+200,,,38,hình sự,07/2021/HS-ST
+200,,,17,hình sự,07/2021/HS-ST
+200,,,54,hình sự,07/2021/HS-ST
+200,,,356,tố tụng hình sự,07/2021/HS-ST
+201,a,1,244,hình sự,
+201,s,1,51,hình sự,
+201,,,38,hình sự,
+201,,,47,hình sự,
+201,,,106,tố tụng hình sự,
+201,,,2,,thi hành án dân sự
+201,,,6,,thi hành án dân sự
+201,,,7,,thi hành án dân sự
+201,,,9,,thi hành án dân sự
+201,,,30,,thi hành án dân sự
+202,a,1,244,hình sự,83/2021/HS-ST
+202,s,1,51,hình sự,83/2021/HS-ST
+202,b,1,355,tố tụng hình sự,83/2021/HS-ST
+202,e,1,357,tố tụng hình sự,83/2021/HS-ST
+202,,2,51,hình sự,83/2021/HS-ST
+202,,3,92,thi hành án hình sự,83/2021/HS-ST
+202,,,38,hình sự,83/2021/HS-ST
+202,,,58,hình sự,83/2021/HS-ST
+202,,,65,hình sự,83/2021/HS-ST
+202,,,136,tố tụng hình sự,83/2021/HS-ST
+203,d,1,244,hình sự,
+203,h,1,51,hình sự,
+203,s,1,51,hình sự,
+203,,2,51,hình sự,
+203,,,65,hình sự,
+203,,,47,hình sự,
+203,,,106,tố tụng hình sự,
+203,,,244,hình sự,
+203,,,92,thi hành án hình sự,
+203,,,136,tố tụng hình sự,
+204,b,1,244,hình sự,
+204,s,1,51,hình sự,
+204,,2,51,hình sự,
+204,u,1,51,hình sự,
+204,c,2,106,tố tụng hình sự,
+204,,1,244,hình sự,
+204,,1,51,hình sự,
+204,,2,50,hình sự,
+204,,1,125,tố tụng hình sự,
+204,,2,135,tố tụng hình sự,
+204,,,65,hình sự,
+204,,,331,tố tụng hình sự,
+204,,,333,tố tụng hình sự,
+205,b,1,244,hình sự,
+205,s,1,51,hình sự,
+205,a,1,47,hình sự,
+205,c,2,106,tố tụng hình sự,
+205,a,2,106,tố tụng hình sự,
+205,b,3,106,tố tụng hình sự,
+205,b,1,47,hình sự,
+205,,3,47,hình sự,
+205,,2,51,hình sự,
+205,,4,244,hình sự,
+205,,,17,hình sự,
+205,,,58,hình sự,
+205,,,65,hình sự,
+205,,,38,hình sự,
+205,,,47,hình sự,
+205,,,106,tố tụng hình sự,
+205,,,136,tố tụng hình sự,
+205,,,331,tố tụng hình sự,
+205,,,333,tố tụng hình sự,
+206,a,1,244,hình sự,
+206,h,1,51,hình sự,
+206,s,1,51,hình sự,
+206,,2,51,hình sự,
+206,,1,51,hình sự,
+206,,1,65,hình sự,
+206,,4,244,hình sự,
+206,,,17,hình sự,
+206,,,58,hình sự,
+206,,,65,hình sự,
+206,,,47,hình sự,
+206,,,106,tố tụng hình sự,
+206,,,135,tố tụng hình sự,
+206,,,136,tố tụng hình sự,
+206,,,331,tố tụng hình sự,
+206,,,332,tố tụng hình sự,
+206,,,333,tố tụng hình sự,
+206,,,68,thi hành án hình sự,
+206,,,92,thi hành án hình sự,
+207,g,2,244,hình sự,12/2021/HS-ST
+207,h,2,244,hình sự,12/2021/HS-ST
+207,s,1,51,hình sự,12/2021/HS-ST
+207,,2,51,hình sự,12/2021/HS-ST
+207,o,1,52,hình sự,12/2021/HS-ST
+207,a,1,355,tố tụng hình sự,12/2021/HS-ST
+207,,3,54,hình sự,12/2021/HS-ST
+207,,1,333,tố tụng hình sự,12/2021/HS-ST
+207,,,65,hình sự,12/2021/HS-ST
+207,,,91,hình sự,12/2021/HS-ST
+207,,,101,hình sự,12/2021/HS-ST
+207,,,356,tố tụng hình sự,12/2021/HS-ST
+208,a,2,244,hình sự,19/2021/HSST
+208,s,1,51,hình sự,19/2021/HSST
+208,t,1,51,hình sự,19/2021/HSST
+208,,2,51,hình sự,19/2021/HSST
+208,a,1,355,tố tụng hình sự,19/2021/HSST
+208,đ,1,355,tố tụng hình sự,19/2021/HSST
+208,,2,244,hình sự,19/2021/HSST
+208,,2,135,tố tụng hình sự,19/2021/HSST
+208,,2,136,tố tụng hình sự,19/2021/HSST
+208,,1,348,tố tụng hình sự,19/2021/HSST
+208,,,54,hình sự,19/2021/HSST
+208,,,244,hình sự,19/2021/HSST
+208,,,356,tố tụng hình sự,19/2021/HSST
+208,,,331,tố tụng hình sự,19/2021/HSST
+208,,,332,tố tụng hình sự,19/2021/HSST
+208,,,333,tố tụng hình sự,19/2021/HSST
+209,a,1,244,hình sự,128/2021/HS-ST
+209,s,1,51,hình sự,128/2021/HS-ST
+209,p,1,51,hình sự,128/2021/HS-ST
+209,,2,51,hình sự,128/2021/HS-ST
+209,b,1,355,tố tụng hình sự,128/2021/HS-ST
+209,e,1,357,tố tụng hình sự,128/2021/HS-ST
+209,,,38,hình sự,128/2021/HS-ST
+209,,,54,hình sự,128/2021/HS-ST
+209,,,65,hình sự,128/2021/HS-ST
+210,d,3,244,hình sự,497/2020/HSST
+210,s,1,51,hình sự,497/2020/HSST
+210,,2,51,hình sự,497/2020/HSST
+210,n,1,51,hình sự,497/2020/HSST
+210,,,47,hình sự,497/2020/HSST
+210,,,331,tố tụng hình sự,497/2020/HSST
+210,,,333,tố tụng hình sự,497/2020/HSST
+210,,,355,tố tụng hình sự,497/2020/HSST
+210,,,357,tố tụng hình sự,497/2020/HSST
+210,,,54,hình sự,497/2020/HSST
+211,a,1,244,hình sự,
+211,s,1,51,hình sự,
+211,,2,51,hình sự,
+211,d,1,125,tố tụng hình sự,
+211,a,1,47,hình sự,
+211,b,1,47,hình sự,
+211,a,2,106,tố tụng hình sự,
+211,b,2,106,tố tụng hình sự,
+211,b,3,106,tố tụng hình sự,
+211,,1,65,hình sự,
+211,,2,65,hình sự,
+211,,5,65,hình sự,
+211,,2,136,tố tụng hình sự,
+211,,,17,hình sự,
+211,,,58,hình sự,
+211,,,244,hình sự,
+211,,,51,hình sự,
+211,,,65,hình sự,
+211,,,331,tố tụng hình sự,
+211,,,333,tố tụng hình sự,
+212,s,1,51,hình sự,
+212,,2,51,hình sự,
+212,,1,244,hình sự,
+212,,4,244,hình sự,
+212,,1,51,hình sự,
+212,,,38,hình sự,
+212,,,65,hình sự,
+212,,,47,hình sự,
+212,,,106,tố tụng hình sự,
+212,,,136,tố tụng hình sự,
+212,,,260,tố tụng hình sự,
+213,a,3,244,hình sự,74/2021/HS-ST
+213,s,1,51,hình sự,74/2021/HS-ST
+213,a,2,355,tố tụng hình sự,74/2021/HS-ST
+213,,,38,hình sự,74/2021/HS-ST
+213,,,356,tố tụng hình sự,74/2021/HS-ST
+213,,,332,tố tụng hình sự,74/2021/HS-ST
+213,,,333,tố tụng hình sự,74/2021/HS-ST
+214,a,1,244,hình sự,
+214,s,1,51,hình sự,
+214,g,1,52,hình sự,
+214,,2,106,tố tụng hình sự,
+214,,3,106,tố tụng hình sự,
+215,b,1,244,hình sự,
+215,s,1,51,hình sự,
+215,,2,51,hình sự,
+215,d,3,106,tố tụng hình sự,
+215,,1,106,tố tụng hình sự,
+215,,2,136,tố tụng hình sự,
+215,,3,92,thi hành án hình sự,
+215,,,234,hình sự,
+215,,,65,hình sự,
+215,,,244,hình sự,
+216,b,3,244,hình sự,
+216,h,1,51,hình sự,
+216,s,1,51,hình sự,
+216,,2,51,hình sự,
+216,,4,244,hình sự,
+216,,1,47,hình sự,
+216,,2,136,tố tụng hình sự,
+216,,,234,hình sự,
+216,,,54,hình sự,
+216,,,38,hình sự,
+216,,,106,tố tụng hình sự,
+216,,,331,tố tụng hình sự,
+216,,,333,tố tụng hình sự,
+217,a,1,244,hình sự,
+217,b,1,244,hình sự,
+217,s,1,51,hình sự,
+217,v,1,51,hình sự,
+217,,1,65,hình sự,
+217,,2,65,hình sự,
+217,,5,65,hình sự,
+217,,1,92,thi hành án hình sự,
+217,,2,136,tố tụng hình sự,
+217,,,244,hình sự,
+217,,,47,hình sự,
+217,,,106,tố tụng hình sự,
+218,d,2,232,hình sự,
+218,,4,232,hình sự,
+218,s,1,51,hình sự,
+218,,2,51,hình sự,
+218,,1,232,hình sự,
+218,,,38,hình sự,
+218,,,47,hình sự,
+218,,,106,tố tụng hình sự,
+218,,,135,tố tụng hình sự,
+218,,,136,tố tụng hình sự,
+218,,,48,hình sự,
+218,,,584,,dân sự
+218,,,585,,dân sự
+218,,,589,,dân sự
+218,,,246,,tố tụng dân sự
+218,,,2,,thi hành án dân sự
+218,,,6,,thi hành án dân sự
+218,,,7,,thi hành án dân sự
+218,,,9,,thi hành án dân sự
+218,,,30,,thi hành án dân sự
+219,a,1,244,hình sự,
+219,,4,244,hình sự,
+219,s,1,51,hình sự,
+219,,2,51,hình sự,
+219,,1,244,hình sự,
+219,,,38,hình sự,
+219,,,135,tố tụng hình sự,
+219,,,136,tố tụng hình sự,
+219,,,46,hình sự,
+219,,,106,tố tụng hình sự,
+220,a,1,244,hình sự,
+220,s,1,51,hình sự,
+220,,1,52,hình sự,
+220,,4,244,hình sự,
+220,,2,106,tố tụng hình sự,
+220,,,38,hình sự,
+220,,,47,hình sự,
+220,,,106,tố tụng hình sự,
+220,,,331,tố tụng hình sự,
+220,,,333,tố tụng hình sự,
+221,p,1,46,hình sự,
+221,,2,46,hình sự,
+221,a,1,244,hình sự,
+221,n,2,249,hình sự,
+221,s,1,51,hình sự,
+221,,2,51,hình sự,
+221,a,1,55,hình sự,
+221,,1,194,hình sự,
+221,,2,249,hình sự,
+221,,4,244,hình sự,
+221,,5,249,hình sự,
+221,,1,47,hình sự,
+221,,2,106,tố tụng hình sự,
+221,,,244,hình sự,
+221,,,17,hình sự,
+221,,,58,hình sự,
+221,,,55,hình sự,
+222,b,3,244,hình sự,
+222,o,1,51,hình sự,
+222,s,1,51,hình sự,
+222,x,1,51,hình sự,
+222,,2,136,tố tụng hình sự,
+222,,,54,hình sự,
+222,,,38,hình sự,
+222,,,46,hình sự,
+222,,,47,hình sự,
+222,,,106,tố tụng hình sự,
+222,,,244,hình sự,
+223,d,2,244,hình sự,62/2021/HS-ST
+223,i,2,244,hình sự,62/2021/HS-ST
+223,s,1,51,hình sự,62/2021/HS-ST
+223,,2,51,hình sự,62/2021/HS-ST
+223,b,1,355,tố tụng hình sự,62/2021/HS-ST
+223,,1,47,hình sự,62/2021/HS-ST
+223,,1,106,tố tụng hình sự,62/2021/HS-ST
+223,,2,106,tố tụng hình sự,62/2021/HS-ST
+223,,,342,tố tụng hình sự,62/2021/HS-ST
+223,,,348,tố tụng hình sự,62/2021/HS-ST
+223,,,357,tố tụng hình sự,62/2021/HS-ST
+224,a,1,244,hình sự,
+224,s,1,51,hình sự,
+224,,2,51,hình sự,
+224,a,1,47,hình sự,
+224,a,2,106,tố tụng hình sự,
+224,c,2,106,tố tụng hình sự,
+224,b,3,106,tố tụng hình sự,
+224,,1,244,hình sự,
+224,,4,244,hình sự,
+224,,2,136,tố tụng hình sự,
+224,,1,65,hình sự,
+224,,2,65,hình sự,
+224,,5,65,hình sự,
+224,,4,328,tố tụng hình sự,
+224,,,38,hình sự,
+224,,,50,hình sự,
+224,,,65,hình sự,
+224,,,292,tố tụng hình sự,
+224,,,293,tố tụng hình sự,
+224,,,296,tố tụng hình sự,
+224,,,331,tố tụng hình sự,
+224,,,333,tố tụng hình sự,
+225,a,1,244,hình sự,
+225,s,1,51,hình sự,
+225,,2,51,hình sự,
+225,a,2,106,tố tụng hình sự,
+225,d,3,106,tố tụng hình sự,
+225,,4,244,hình sự,
+225,,1,106,tố tụng hình sự,
+225,,1,51,hình sự,
+225,,2,136,tố tụng hình sự,
+225,,,65,hình sự,
+225,,,234,hình sự,
+225,,,244,hình sự,
+225,,,331,tố tụng hình sự,
+225,,,333,tố tụng hình sự,
+225,,,92,thi hành án hình sự,
+225,,,2,,thi hành án dân sự
+225,,,6,,thi hành án dân sự
+225,,,7,,thi hành án dân sự
+225,,,7a,,thi hành án dân sự
+225,,,9,,thi hành án dân sự
+225,,,30,,thi hành án dân sự
+226,b,1,244,hình sự,
+226,s,1,51,hình sự,
+226,,2,51,hình sự,
+226,,4,244,hình sự,
+226,,2,135,tố tụng hình sự,
+226,,,65,hình sự,
+226,,,17,hình sự,
+226,,,58,hình sự,
+226,,,47,hình sự,
+226,,,106,tố tụng hình sự,
+226,,,17,tố tụng hình sự,
+226,,,19,tố tụng hình sự,
+226,,,20,tố tụng hình sự,
+226,,,34,tố tụng hình sự,
+226,,,36,tố tụng hình sự,
+226,,,37,tố tụng hình sự,
+226,,,41,tố tụng hình sự,
+226,,,42,tố tụng hình sự,
+226,,,52,hình sự,
+226,,,331,tố tụng hình sự,
+226,,,333,tố tụng hình sự,
+226,,,92,thi hành án hình sự,
+227,a,1,244,hình sự,45/2021/HS-ST
+227,s,1,51,hình sự,45/2021/HS-ST
+227,a,1,355,tố tụng hình sự,45/2021/HS-ST
+227,b,1,244,hình sự,45/2021/HS-ST
+227,b,1,355,tố tụng hình sự,45/2021/HS-ST
+227,c,1,357,tố tụng hình sự,45/2021/HS-ST
+227,,2,51,hình sự,45/2021/HS-ST
+227,,1,244,hình sự,45/2021/HS-ST
+227,,,356,tố tụng hình sự,45/2021/HS-ST
+229,b,1,244,hình sự,
+229,s,1,51,hình sự,
+229,,2,51,hình sự,
+229,,,65,hình sự,
+229,,,47,hình sự,
+229,,,106,tố tụng hình sự,
+229,,,136,tố tụng hình sự,
+229,,,331,tố tụng hình sự,
+229,,,333,tố tụng hình sự,
+230,b,1,244,hình sự,
+230,s,1,51,hình sự,
+230,,,47,hình sự,
+230,,,106,tố tụng hình sự,
+230,,,136,tố tụng hình sự,
+230,,,2,,thi hành án dân sự
+230,,,30,,thi hành án dân sự
+231,a,2,244,hình sự,
+231,s,1,51,hình sự,
+231,,2,51,hình sự,
+231,,,234,hình sự,
+231,,,244,hình sự,
+231,,,290,tố tụng hình sự,
+231,,,292,tố tụng hình sự,
+231,,,54,hình sự,
+231,,,136,tố tụng hình sự,
+232,a,1,244,hình sự,
+232,s,1,51,hình sự,
+232,,2,51,hình sự,
+232,h,1,51,hình sự,
+232,i,1,51,hình sự,
+232,,,65,hình sự,
+232,,,136,tố tụng hình sự,
+232,,,328,tố tụng hình sự,
+232,,,331,tố tụng hình sự,
+232,,,333,tố tụng hình sự,
+233,a,2,244,hình sự,
+233,s,1,51,hình sự,
+233,t,1,51,hình sự,
+233,b,1,35,hình sự,
+233,,3,35,hình sự,
+233,a,1,47,hình sự,
+233,a,2,106,tố tụng hình sự,
+233,c,2,106,tố tụng hình sự,
+233,a,3,106,tố tụng hình sự,
+233,,1,51,hình sự,
+233,,1,106,tố tụng hình sự,
+233,,2,136,tố tụng hình sự,
+233,,,35,hình sự,
+233,,,54,hình sự,
+233,,,244,hình sự,
+233,,,52,hình sự,
+233,,,331,tố tụng hình sự,
+233,,,332,tố tụng hình sự,
+233,,,333,tố tụng hình sự,
+234,b,1,244,hình sự,
+234,s,1,51,hình sự,
+234,,2,51,hình sự,
+234,b,1,47,hình sự,
+234,c,2,106,tố tụng hình sự,
+234,d,3,106,tố tụng hình sự,
+234,,4,244,hình sự,
+234,,2,135,tố tụng hình sự,
+234,,2,136,tố tụng hình sự,
+234,,,65,hình sự,
+234,,,331,tố tụng hình sự,
+234,,,333,tố tụng hình sự,
+234,,,92,thi hành án hình sự,
+234,,,2,,thi hành án dân sự
+234,,,6,,thi hành án dân sự
+234,,,7,,thi hành án dân sự
+234,,,7a,,thi hành án dân sự
+234,,,7b,,thi hành án dân sự
+234,,,9,,thi hành án dân sự
+234,,,30,,thi hành án dân sự
+235,a,1,244,hình sự,
+235,s,1,51,hình sự,
+235,,2,51,hình sự,
+235,a,1,47,hình sự,
+235,a,2,106,tố tụng hình sự,
+235,c,2,106,tố tụng hình sự,
+235,d,3,106,tố tụng hình sự,
+235,,2,35,hình sự,
+235,,4,244,hình sự,
+235,,,38,hình sự,
+235,,,58,hình sự,
+235,,,65,hình sự,
+235,,,136,tố tụng hình sự,
+235,,,331,tố tụng hình sự,
+235,,,333,tố tụng hình sự,
+236,a,1,244,hình sự,
+236,s,1,51,hình sự,
+236,,2,51,hình sự,
+236,a,1,47,hình sự,
+236,a,2,106,tố tụng hình sự,
+236,c,2,106,tố tụng hình sự,
+236,d,3,106,tố tụng hình sự,
+236,,2,35,hình sự,
+236,,4,244,hình sự,
+236,,,38,hình sự,
+236,,,58,hình sự,
+236,,,65,hình sự,
+236,,,136,tố tụng hình sự,
+236,,,331,tố tụng hình sự,
+236,,,333,tố tụng hình sự,
+237,a,1,244,hình sự,
+237,b,1,244,hình sự,
+237,s,1,51,hình sự,
+237,,2,51,hình sự,
+237,a,1,47,hình sự,
+237,,2,47,hình sự,
+237,c,2,106,tố tụng hình sự,
+237,d,3,106,tố tụng hình sự,
+237,,1,244,hình sự,
+237,,2,106,tố tụng hình sự,
+237,,3,106,tố tụng hình sự,
+237,,4,244,hình sự,
+237,,1,65,hình sự,
+237,,2,65,hình sự,
+237,,5,65,hình sự,
+237,,2,136,tố tụng hình sự,
+237,,,65,hình sự,
+237,,,52,hình sự,
+237,,,92,thi hành án hình sự,
+237,,,331,tố tụng hình sự,
+237,,,333,tố tụng hình sự,
+238,c,1,244,hình sự,
+238,s,1,51,hình sự,
+238,,2,51,hình sự,
+238,,4,244,hình sự,
+238,,,65,hình sự,
+238,,,47,hình sự,
+238,,,106,tố tụng hình sự,
+238,,,64,thi hành án hình sự,
+238,,,69,thi hành án hình sự,
+238,,,136,tố tụng hình sự,
+238,,,6,,thi hành án dân sự
+238,,,7,,thi hành án dân sự
+238,,,9,,thi hành án dân sự
+238,,,30,,thi hành án dân sự
+239,a,2,244,hình sự,
+239,s,1,51,hình sự,
+239,,2,51,hình sự,
+239,v,1,51,hình sự,
+239,,4,244,hình sự,
+239,,,54,hình sự,
+239,,,38,hình sự,
+239,,,52,hình sự,
+239,,,47,hình sự,
+239,,,106,tố tụng hình sự,
+239,,,136,tố tụng hình sự,
+240,a,1,244,hình sự,
+240,s,1,51,hình sự,
+240,,2,51,hình sự,
+240,t,1,51,hình sự,
+240,,,47,hình sự,
+240,,,106,tố tụng hình sự,
+240,,,136,tố tụng hình sự,
+241,a,1,244,hình sự,
+241,s,1,51,hình sự,
+241,,1,69,thi hành án hình sự,
+241,,2,136,tố tụng hình sự,
+241,,,65,hình sự,
+242,d,3,244,hình sự,08/2020/HS-ST
+242,s,1,51,hình sự,08/2020/HS-ST
+242,,2,51,hình sự,08/2020/HS-ST
+242,,4,244,hình sự,08/2020/HS-ST
+242,b,1,355,tố tụng hình sự,08/2020/HS-ST
+242,c,1,357,tố tụng hình sự,08/2020/HS-ST
+242,,,38,hình sự,08/2020/HS-ST
+243,a,1,244,hình sự,60/2019/HS-ST
+243,s,1,51,hình sự,60/2019/HS-ST
+243,,2,51,hình sự,60/2019/HS-ST
+243,a,1,355,tố tụng hình sự,60/2019/HS-ST
+243,b,1,355,tố tụng hình sự,60/2019/HS-ST
+243,e,1,357,tố tụng hình sự,60/2019/HS-ST
+243,,1,38,hình sự,60/2019/HS-ST
+243,,1,69,thi hành án hình sự,60/2019/HS-ST
+243,,,356,tố tụng hình sự,60/2019/HS-ST
+243,,,65,hình sự,60/2019/HS-ST
+243,,,56,hình sự,60/2019/HS-ST
+243,,,135,tố tụng hình sự,60/2019/HS-ST
+243,,,136,tố tụng hình sự,60/2019/HS-ST
+245,b,1,244,hình sự,
+245,s,1,51,hình sự,
+245,,2,51,hình sự,
+245,c,3,106,tố tụng hình sự,
+245,c,2,106,tố tụng hình sự,
+245,a,3,106,tố tụng hình sự,
+245,a,2,106,tố tụng hình sự,
+245,b,1,47,hình sự,
+245,,1,65,hình sự,
+245,,2,65,hình sự,
+245,,5,65,hình sự,
+245,,1,51,hình sự,
+245,,4,244,hình sự,
+245,,,58,hình sự,
+245,,,136,tố tụng hình sự,
+245,,,17,hình sự,
+246,c,1,244,hình sự,240/2019/HSST
+246,s,1,51,hình sự,240/2019/HSST
+246,,2,51,hình sự,240/2019/HSST
+246,a,1,355,tố tụng hình sự,240/2019/HSST
+246,,1,51,hình sự,240/2019/HSST
+246,,,38,hình sự,240/2019/HSST
+246,,,46,hình sự,240/2019/HSST
+246,,,47,hình sự,240/2019/HSST
+246,,,99,tố tụng hình sự,240/2019/HSST
+247,a,3,244,hình sự,
+247,s,1,51,hình sự,
+247,,2,51,hình sự,
+247,a,1,47,hình sự,
+247,d,3,106,tố tụng hình sự,
+247,,2,136,tố tụng hình sự,
+247,,,47,hình sự,
+247,,,106,tố tụng hình sự,
+247,,,244,hình sự,
+247,,,26,,thi hành án dân sự
+247,,,6,,thi hành án dân sự
+247,,,7,,thi hành án dân sự
+247,,,9,,thi hành án dân sự
+247,,,30,,thi hành án dân sự
+248,a,1,244,hình sự,
+248,s,1,51,hình sự,
+248,,2,51,hình sự,
+248,d,3,106,tố tụng hình sự,
+248,,4,244,hình sự,
+248,,1,69,thi hành án hình sự,
+248,,2,136,tố tụng hình sự,
+248,,,65,hình sự,
+248,,,47,hình sự,
+248,,,106,tố tụng hình sự,
+248,,,331,tố tụng hình sự,
+248,,,333,tố tụng hình sự,
+249,a,3,244,hình sự,149/2018/HS-ST
+249,s,1,51,hình sự,149/2018/HS-ST
+249,,2,51,hình sự,149/2018/HS-ST
+249,b,1,355,tố tụng hình sự,149/2018/HS-ST
+249,e,1,357,tố tụng hình sự,149/2018/HS-ST
+249,c,1,357,tố tụng hình sự,149/2018/HS-ST
+249,,1,54,hình sự,149/2018/HS-ST
+249,,3,244,hình sự,149/2018/HS-ST
+249,,,38,hình sự,149/2018/HS-ST
+249,,,50,hình sự,149/2018/HS-ST
+249,,,58,hình sự,149/2018/HS-ST
+250,a,2,244,hình sự,14/2018/HSST
+250,g,2,244,hình sự,14/2018/HSST
+250,h,2,244,hình sự,14/2018/HSST
+250,s,1,51,hình sự,14/2018/HSST
+250,,2,51,hình sự,14/2018/HSST
+250,b,1,51,hình sự,14/2018/HSST
+250,b,1,355,tố tụng hình sự,14/2018/HSST
+250,a,2,357,tố tụng hình sự,14/2018/HSST
+250,,1,54,hình sự,14/2018/HSST
+250,,2,244,hình sự,14/2018/HSST
+250,,1,5,,"Luật quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ năm 2017"
+250,,2,5,,"Luật quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ năm 2017"
+250,,,38,hình sự,14/2018/HSST
+250,,,244,hình sự,14/2018/HSST
+251,a,1,244,hình sự,
+251,s,1,51,hình sự,
+251,,2,51,hình sự,
+251,,2,92,thi hành án hình sự,
+251,,,50,hình sự,
+251,,,58,hình sự,
+251,,,65,hình sự,
+251,,,244,hình sự,
+251,,,56,hình sự,
+251,,,87,thi hành án hình sự,
+251,,,47,hình sự,
+251,,,106,tố tụng hình sự,
+252,a,1,244,hình sự,
+252,s,1,51,hình sự,
+252,,2,51,hình sự,
+252,,1,65,hình sự,
+252,,2,65,hình sự,
+252,,5,65,hình sự,
+252,,,136,tố tụng hình sự,
+252,,,331,tố tụng hình sự,
+252,,,333,tố tụng hình sự,
+252,,,106,tố tụng hình sự,
+252,,,26,thi hành án dân sự,
+252,,,2,thi hành án dân sự,
+252,,,6,thi hành án dân sự,
+252,,,7,thi hành án dân sự,
+252,,,9,thi hành án dân sự,
+252,,,30,thi hành án dân sự,
+253,a,1,244,hình sự,
+253,s,1,51,hình sự,
+253,,2,51,hình sự,
+253,,,65,hình sự,
+253,,,47,hình sự,
+253,,,106,tố tụng hình sự,
+253,,,136,tố tụng hình sự,
+253,,,331,tố tụng hình sự,
+253,,,333,tố tụng hình sự,
+254,a,1,244,hình sự,
+254,b,1,244,hình sự,
+254,s,1,51,hình sự,
+254,,2,51,hình sự,
+254,,1,244,hình sự,
+254,,5,65,hình sự,
+254,,1,68,thi hành án hình sự,
+254,,,38,hình sự,
+254,,,50,hình sự,
+254,,,65,hình sự,
+254,,,136,tố tụng hình sự,
+254,,,292,tố tụng hình sự,
+254,,,293,tố tụng hình sự,
+254,,,125,tố tụng hình sự,
+254,,,278,tố tụng hình sự,
+255,a,1,244,hình sự,
+255,b,1,244,hình sự,
+255,s,1,51,hình sự,
+255,,2,51,hình sự,
+255,q,1,51,hình sự,
+255,a,2,106,tố tụng hình sự,
+255,b,2,106,tố tụng hình sự,
+255,c,2,106,tố tụng hình sự,
+255,,1,244,hình sự,
+255,,1,106,tố tụng hình sự,
+255,,2,136,tố tụng hình sự,
+255,,,234,hình sự,
+255,,,38,hình sự,
+255,,,50,hình sự,
+255,,,331,tố tụng hình sự,
+255,,,333,tố tụng hình sự,
+256,a,1,244,hình sự,
+256,s,1,51,hình sự,
+256,h,1,52,hình sự,
+256,,2,136,tố tụng hình sự,
+256,,,38,hình sự,
+256,,,70,hình sự,
+256,,,47,hình sự,
+256,,,106,tố tụng hình sự,
+256,,,331,tố tụng hình sự,
+256,,,333,tố tụng hình sự,
+257,b,1,244,hình sự,
+257,s,1,51,hình sự,
+257,,2,51,hình sự,
+257,,,65,hình sự,
+257,,,47,hình sự,
+257,,,106,tố tụng hình sự,
+257,,,136,tố tụng hình sự,
+257,,,331,tố tụng hình sự,
+257,,,333,tố tụng hình sự,
+258,a,1,244,hình sự,
+258,s,1,51,hình sự,
+258,,2,51,hình sự,
+258,t,1,51,hình sự,
+258,a,1,47,hình sự,
+258,a,2,106,tố tụng hình sự,
+258,c,2,106,tố tụng hình sự,
+258,d,1,125,tố tụng hình sự,
+258,,4,244,hình sự,
+258,,2,136,tố tụng hình sự,
+258,,,65,hình sự,
+258,,,52,hình sự,
+258,,,92,thi hành án hình sự,
+259,b,1,244,hình sự,
+259,s,1,51,hình sự,
+259,,2,51,hình sự,
+259,m,1,51,hình sự,
+259,,2,106,tố tụng hình sự,
+259,,,38,hình sự,
+259,,,65,hình sự,
+259,,,50,hình sự,
+259,,,47,hình sự,
+259,,,135,tố tụng hình sự,
+259,,,136,tố tụng hình sự,
+259,,,331,tố tụng hình sự,
+259,,,333,tố tụng hình sự,
+259,,,337,tố tụng hình sự,
+259,,,260,tố tụng hình sự,
+259,,,92,thi hành án hình sự,
+259,,,68,thi hành án hình sự,
+259,,,56,hình sự,
+260,a,3,244,hình sự,14/2021/HS-ST
+260,s,1,51,hình sự,14/2021/HS-ST
+260,,2,51,hình sự,14/2021/HS-ST
+260,v,1,51,hình sự,14/2021/HS-ST
+260,a,1,355,tố tụng hình sự,14/2021/HS-ST
+260,,1,54,hình sự,14/2021/HS-ST
+260,,2,136,tố tụng hình sự,14/2021/HS-ST
+260,,,356,tố tụng hình sự,14/2021/HS-ST
+260,,,244,hình sự,14/2021/HS-ST
+260,,,234,hình sự,14/2021/HS-ST
+260,,,58,hình sự,14/2021/HS-ST
+261,b,1,244,hình sự,74/2021/HS-ST
+261,s,1,51,hình sự,74/2021/HS-ST
+261,,2,51,hình sự,74/2021/HS-ST
+261,t,1,51,hình sự,74/2021/HS-ST
+261,b,1,355,tố tụng hình sự,74/2021/HS-ST
+261,e,1,357,tố tụng hình sự,74/2021/HS-ST
+261,,1,51,hình sự,74/2021/HS-ST
+261,,,47,hình sự,74/2021/HS-ST
+261,,,65,hình sự,74/2021/HS-ST
+261,,,56,hình sự,74/2021/HS-ST
+263,s,1,51,hình sự,105/2021/HSST
+263,,2,51,hình sự,105/2021/HSST
+263,b,1,355,tố tụng hình sự,105/2021/HSST
+263,c,1,357,tố tụng hình sự,105/2021/HSST
+263,,3,357,tố tụng hình sự,105/2021/HSST
+263,b,1,244,hình sự,105/2021/HSST
+263,,3,92,thi hành án hình sự,105/2021/HSST
+263,,,17,hình sự,105/2021/HSST
+263,,,58,hình sự,105/2021/HSST
+263,,1,65,hình sự,105/2021/HSST
+263,,2,65,hình sự,105/2021/HSST
+263,,5,65,hình sự,105/2021/HSST
+264,a,1,244,hình sự,
+264,s,1,51,hình sự,
+264,,2,51,hình sự,
+264,a,1,47,hình sự,
+264,b,1,47,hình sự,
+264,c,2,106,tố tụng hình sự,
+264,a,2,106,tố tụng hình sự,
+264,,2,136,tố tụng hình sự,
+264,,1,92,thi hành án hình sự,
+264,,2,136,tố tụng hình sự,
+264,,,65,hình sự,
+264,,,94,thi hành án hình sự,
+265,b,1,244,hình sự,
+265,s,1,51,hình sự,
+265,,2,51,hình sự,
+265,,4,244,hình sự,
+265,,2,135,tố tụng hình sự,
+265,,2,136,tố tụng hình sự,
+265,,,65,hình sự,
+265,,,92,thi hành án hình sự,
+265,,,94,thi hành án hình sự,
+266,a,1,244,hình sự,
+266,s,1,51,hình sự,
+266,,2,51,hình sự,
+266,a,1,47,hình sự,
+266,a,2,106,tố tụng hình sự,
+266,c,2,106,tố tụng hình sự,
+266,,1,65,hình sự,
+266,,2,65,hình sự,
+266,,5,65,hình sự,
+266,,2,135,tố tụng hình sự,
+266,,2,136,tố tụng hình sự,
+266,,,68,thi hành án hình sự,
+266,,,92,thi hành án hình sự,
+267,a,1,244,hình sự,
+267,s,1,51,hình sự,
+267,,2,51,hình sự,
+267,a,1,47,hình sự,
+267,a,2,106,tố tụng hình sự,
+267,c,2,106,tố tụng hình sự,
+267,d,1,125,tố tụng hình sự,
+267,,1,65,hình sự,
+267,,2,65,hình sự,
+267,,5,65,hình sự,
+267,,,234,hình sự,
+267,,,244,hình sự,
+267,,,136,tố tụng hình sự,
+267,,,331,tố tụng hình sự,
+267,,,333,tố tụng hình sự,
+268,a,1,244,hình sự,
+268,s,1,51,hình sự,
+268,,2,51,hình sự,
+268,t,1,51,hình sự,
+268,a,1,47,hình sự,
+268,d,1,125,tố tụng hình sự,
+268,,2,136,tố tụng hình sự,
+268,a,2,106,tố tụng hình sự,
+268,c,2,106,tố tụng hình sự,
+268,b,3,106,tố tụng hình sự,
+268,,1,244,hình sự,
+268,,4,244,hình sự,
+268,,1,292,tố tụng hình sự,
+268,,2,136,tố tụng hình sự,
+268,,3,92,thi hành án hình sự,
+268,,,65,hình sự,
+268,,,331,tố tụng hình sự,
+268,,,333,tố tụng hình sự,
+269,a,1,244,hình sự,
+269,s,1,51,hình sự,
+269,,2,51,hình sự,
+269,h,1,51,hình sự,
+269,,,244,hình sự,
+269,,,65,hình sự,
+269,,,47,hình sự,
+269,,,106,tố tụng hình sự,
+269,,,136,tố tụng hình sự,
+270,a,1,244,hình sự,
+270,s,1,51,hình sự,
+270,,2,51,hình sự,
+270,t,1,51,hình sự,
+270,,1,54,hình sự,
+270,,3,54,hình sự,
+270,,1,51,hình sự,
+270,,4,244,hình sự,
+270,,2,135,tố tụng hình sự,
+270,,2,136,tố tụng hình sự,
+270,,,38,hình sự,
+270,,,54,hình sự,
+270,,,331,tố tụng hình sự,
+270,,,333,tố tụng hình sự,
+270,,,2,,thi hành án dân sự
+270,,,6,,thi hành án dân sự
+270,,,7,,thi hành án dân sự
+270,,,7a,,thi hành án dân sự
+270,,,7b,,thi hành án dân sự
+270,,,9,,thi hành án dân sự
+270,,,30,,thi hành án dân sự
+271,b,2,244,hình sự,89/2021/HS-ST
+271,s,1,51,hình sự,89/2021/HS-ST
+271,a,1,355,tố tụng hình sự,89/2021/HS-ST
+271,,,356,tố tụng hình sự,89/2021/HS-ST
+272,a,1,244,hình sự,
+272,s,1,51,hình sự,
+272,,2,51,hình sự,
+272,h,1,52,hình sự,
+272,a,1,47,hình sự,
+272,a,2,106,tố tụng hình sự,
+272,,2,136,tố tụng hình sự,
+272,,,2,,thi hành án dân sự
+272,,,30,,thi hành án dân sự
+273,a,1,244,hình sự,21/2022/HSST
+273,s,1,51,hình sự,21/2022/HSST
+273,,2,51,hình sự,21/2022/HSST
+273,a,1,355,tố tụng hình sự,21/2022/HSST
+273,b,1,355,tố tụng hình sự,21/2022/HSST
+273,e,1,357,tố tụng hình sự,21/2022/HSST
+273,,,58,hình sự,21/2022/HSST
+273,,,38,hình sự,21/2022/HSST
+273,,,65,hình sự,21/2022/HSST
+273,,,136,tố tụng hình sự,21/2022/HSST
+274,a,1,244,hình sự,
+274,s,1,51,hình sự,
+274,,2,51,hình sự,
+274,d,3,106,tố tụng hình sự,
+274,,1,244,hình sự,
+274,,4,244,hình sự,
+274,,,65,hình sự,
+274,,,331,tố tụng hình sự,
+274,,,332,tố tụng hình sự,
+274,,,333,tố tụng hình sự,
+274,,,47,hình sự,
+274,,,106,tố tụng hình sự,
+274,,,136,tố tụng hình sự,
+274,,,69,thi hành án hình sự,
+275,a,1,244,hình sự,
+275,d,1,244,hình sự,
+275,s,1,51,hình sự,
+275,,2,51,hình sự,
+275,,,35,hình sự,
+275,,,50,hình sự,
+275,,,106,tố tụng hình sự,
+276,b,1,244,hình sự,
+276,s,1,51,hình sự,
+276,,2,51,hình sự,
+276,,4,244,hình sự,
+276,,,47,hình sự,
+276,,,106,tố tụng hình sự,
+276,,,244,hình sự,
+276,,,136,tố tụng hình sự,
+276,,,2,,thi hành án dân sự
+276,,,6,,thi hành án dân sự
+276,,,7,,thi hành án dân sự
+276,,,9,,thi hành án dân sự
+276,,,30,,thi hành án dân sự
+277,a,1,244,hình sự,
+277,s,1,51,hình sự,
+277,,2,51,hình sự,
+277,,1,51,hình sự,
+277,,3,92,thi hành án hình sự,
+277,,2,136,tố tụng hình sự,
+277,,,65,hình sự,
+277,,,38,hình sự,
+277,,,50,hình sự,
+277,,,47,hình sự,
+277,,,106,tố tụng hình sự,
+277,,,2,,thi hành án dân sự
+277,,,6,,thi hành án dân sự
+277,,,7,,thi hành án dân sự
+277,,,9,,thi hành án dân sự
+277,,,30,,thi hành án dân sự
+278,d,2,244,hình sự,
+278,s,1,51,hình sự,
+278,,2,51,hình sự,
+278,g,1,52,hình sự,
+278,a,1,47,hình sự,
+278,c,1,47,hình sự,
+278,a,2,106,tố tụng hình sự,
+278,c,2,106,tố tụng hình sự,
+278,a,3,106,tố tụng hình sự,
+278,,4,244,hình sự,
+278,,2,136,tố tụng hình sự,
+278,,1,331,tố tụng hình sự,
+278,,4,331,tố tụng hình sự,
+278,,,333,tố tụng hình sự,
+278,,,244,hình sự,
+279,a,2,244,hình sự,
+279,g,2,244,hình sự,
+279,s,1,51,hình sự,
+279,,2,51,hình sự,
+279,a,1,47,hình sự,
+279,a,2,106,tố tụng hình sự,
+279,,6,3,,"Luật quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ năm 2017"
+279,,4,244,hình sự,
+279,,1,333,tố tụng hình sự,
+279,,,58,hình sự,
+279,,,38,hình sự,
+279,,,17,hình sự,
+279,,,244,hình sự,
+279,,,52,hình sự,
+279,,,106,tố tụng hình sự,
+279,,,136,tố tụng hình sự,
+279,,,331,tố tụng hình sự,
+279,,,2,,thi hành án dân sự
+279,,,6,,thi hành án dân sự
+279,,,7,,thi hành án dân sự
+279,,,9,,thi hành án dân sự
+279,,,30,,thi hành án dân sự
+280,b,1,244,hình sự,
+280,s,1,51,hình sự,
+280,,2,51,hình sự,
+280,a,1,47,hình sự,
+280,a,2,106,tố tụng hình sự,
+280,c,2,106,tố tụng hình sự,
+280,,4,244,hình sự,
+280,,2,136,tố tụng hình sự,
+280,,,17,hình sự,
+280,,,58,hình sự,
+280,,,65,hình sự,
+280,,,47,hình sự,
+280,,,106,tố tụng hình sự,
+280,,,331,tố tụng hình sự,
+280,,,333,tố tụng hình sự,
+280,,,92,thi hành án hình sự,
+281,d,3,244,hình sự,422/2021/HSST
+281,s,1,51,hình sự,422/2021/HSST
+281,a,1,355,tố tụng hình sự,422/2021/HSST
+281,,,38,hình sự,422/2021/HSST
+281,,,356,tố tụng hình sự,422/2021/HSST
+282,c,1,249,hình sự,
+282,b,1,244,hình sự,
+282,s,1,51,hình sự,
+282,t,1,51,hình sự,
+282,c,1,47,hình sự,
+282,a,2,106,tố tụng hình sự,
+282,b,2,106,tố tụng hình sự,
+282,c,2,106,tố tụng hình sự,
+282,a,3,106,tố tụng hình sự,
+282,,1,329,tố tụng hình sự,
+282,,3,329,tố tụng hình sự,
+282,,5,249,hình sự,
+282,,4,244,hình sự,
+282,,,38,hình sự,
+282,,,55,hình sự,
+282,,,58,hình sự,
+282,,,244,hình sự,
+282,,,331,tố tụng hình sự,
+282,,,333,tố tụng hình sự,
+283,b,1,244,hình sự,
+283,s,1,51,hình sự,
+283,,2,51,hình sự,
+283,a,1,47,hình sự,
+283,c,1,47,hình sự,
+283,a,2,106,tố tụng hình sự,
+283,c,2,106,tố tụng hình sự,
+283,,1,65,hình sự,
+283,,2,65,hình sự,
+283,,2,136,tố tụng hình sự,
+283,,,244,hình sự,
+283,,,47,hình sự,
+283,,,106,tố tụng hình sự,
+283,,,65,hình sự,
+283,,,92,thi hành án hình sự,
+284,b,1,244,hình sự,
+284,s,1,51,hình sự,
+284,,2,51,hình sự,
+284,,2,136,tố tụng hình sự,
+284,,,65,hình sự,
+284,,,47,hình sự,
+284,,,106,tố tụng hình sự,
+284,,,52,hình sự,
+284,,,331,tố tụng hình sự,
+284,,,333,tố tụng hình sự,
+285,a,1,244,hình sự,
+285,s,1,51,hình sự,
+285,,,38,hình sự,
+285,,,35,hình sự,
+286,a,1,244,hình sự,
+286,s,1,51,hình sự,
+286,,2,51,hình sự,
+286,t,1,51,hình sự,
+286,a,1,47,hình sự,
+286,a,2,106,tố tụng hình sự,
+286,c,2,106,tố tụng hình sự,
+286,a,3,106,tố tụng hình sự,
+286,,1,65,hình sự,
+286,,2,65,hình sự,
+286,,5,65,hình sự,
+286,,4,244,hình sự,
+286,,1,106,tố tụng hình sự,
+286,,3,106,tố tụng hình sự,
+286,,1,125,tố tụng hình sự,
+286,,2,136,tố tụng hình sự,
+286,,,17,hình sự,
+286,,,58,hình sự,
+286,,,51,hình sự,
+286,,,65,hình sự,
+286,,,331,tố tụng hình sự,
+286,,,333,tố tụng hình sự,
+287,a,1,244,hình sự,
+287,s,1,51,hình sự,
+287,,2,51,hình sự,
+287,,,65,hình sự,
+287,,,48,hình sự,
+287,,,47,hình sự,
+287,,,106,tố tụng hình sự,
+287,,,92,thi hành án hình sự,
+287,,,2,,thi hành án dân sự
+287,,,6,,thi hành án dân sự
+287,,,7,,thi hành án dân sự
+287,,,9,,thi hành án dân sự
+287,,,30,,thi hành án dân sự
+288,b,1,244,hình sự,
+288,s,1,51,hình sự,
+288,,4,244,hình sự,
+288,,2,106,tố tụng hình sự,
+288,,2,136,tố tụng hình sự,
+288,,,65,hình sự,
+288,,,47,hình sự,
+288,,,244,hình sự,
+288,,,68,thi hành án hình sự,
+288,,,92,thi hành án hình sự,
+288,,,56,hình sự,
+288,,,2,,thi hành án dân sự
+288,,,6,,thi hành án dân sự
+288,,,7,,thi hành án dân sự
+288,,,7a,,thi hành án dân sự
+288,,,9,,thi hành án dân sự
+288,,,30,,thi hành án dân sự
+289,d,1,244,hình sự,
+289,s,1,51,hình sự,
+289,,2,51,hình sự,
+289,d,3,106,tố tụng hình sự,
+289,a,1,244,hình sự,
+289,,4,244,hình sự,
+289,,3,92,thi hành án hình sự,
+289,,2,136,tố tụng hình sự,
+289,,,65,hình sự,
+289,,,47,hình sự,
+289,,,106,tố tụng hình sự,
+289,,,52,hình sự,
+289,,,234,hình sự,
+289,,,331,tố tụng hình sự,
+289,,,333,tố tụng hình sự,
+290,a,1,244,hình sự,
+290,s,1,51,hình sự,
+290,v,1,51,hình sự,
+290,,2,51,hình sự,
+290,,,65,hình sự,
+290,,,47,hình sự,
+290,,,106,tố tụng hình sự,
+290,,,136,tố tụng hình sự,
+290,,,331,tố tụng hình sự,
+290,,,333,tố tụng hình sự,
+291,b,1,244,hình sự,
+291,c,1,244,hình sự,
+291,s,1,51,hình sự,
+291,,2,51,hình sự,
+291,,1,46,hình sự,
+291,,1,92,thi hành án hình sự,
+291,,2,135,tố tụng hình sự,
+291,,,65,hình sự,
+291,,,48,hình sự,
+291,,,47,hình sự,
+291,,,106,tố tụng hình sự,
+291,,,244,hình sự,
+291,,,56,hình sự,
+291,,,2,,thi hành án dân sự
+291,,,6,,thi hành án dân sự
+291,,,7,,thi hành án dân sự
+291,,,9,,thi hành án dân sự
+291,,,30,,thi hành án dân sự
+292,b,1,244,hình sự,
+292,s,1,51,hình sự,
+292,,2,51,hình sự,
+292,,4,244,hình sự,
+292,,,65,hình sự,
+292,,,52,hình sự,
+292,,,92,thi hành án hình sự,
+292,,,47,hình sự,
+292,,,106,tố tụng hình sự,
+292,,,136,tố tụng hình sự,
+292,,,331,tố tụng hình sự,
+292,,,333,tố tụng hình sự,
+293,b,1,244,hình sự,
+293,s,1,51,hình sự,
+293,,2,51,hình sự,
+293,,,65,hình sự,
+293,,,135,tố tụng hình sự,
+293,,,136,tố tụng hình sự,
+293,,,331,tố tụng hình sự,
+293,,,333,tố tụng hình sự,
+294,a,1,244,hình sự,01/2022/HS-ST
+294,s,1,51,hình sự,01/2022/HS-ST
+294,,2,51,hình sự,01/2022/HS-ST
+294,a,1,355,tố tụng hình sự,01/2022/HS-ST
+294,,2,136,tố tụng hình sự,01/2022/HS-ST
+294,,,356,tố tụng hình sự,01/2022/HS-ST
+294,,,65,hình sự,01/2022/HS-ST
+296,b,1,244,hình sự,
+296,s,1,51,hình sự,
+296,,2,51,hình sự,
+296,,1,69,thi hành án hình sự,
+296,,,65,hình sự,
+296,,,47,hình sự,
+296,,,106,tố tụng hình sự,
+296,,,2,,thi hành án dân sự
+296,,,6,,thi hành án dân sự
+296,,,7,,thi hành án dân sự
+296,,,9,,thi hành án dân sự
+296,,,30,,thi hành án dân sự
+297,b,1,244,hình sự,
+297,s,1,51,hình sự,
+297,,,38,hình sự,
+297,,,47,hình sự,
+297,,,106,tố tụng hình sự,
+297,,,136,tố tụng hình sự,
+297,,,331,tố tụng hình sự,
+297,,,333,tố tụng hình sự,
+298,b,1,244,hình sự,17/2022/HS-ST
+298,s,1,51,hình sự,17/2022/HS-ST
+298,,2,51,hình sự,17/2022/HS-ST
+298,c,1,357,tố tụng hình sự,17/2022/HS-ST
+298,,,356,tố tụng hình sự,17/2022/HS-ST
+298,,,54,hình sự,17/2022/HS-ST
+299,a,3,244,hình sự,75/2022/HS-ST
+299,s,1,51,hình sự,75/2022/HS-ST
+299,,2,51,hình sự,75/2022/HS-ST
+299,a,1,355,tố tụng hình sự,75/2022/HS-ST
+299,b,1,355,tố tụng hình sự,75/2022/HS-ST
+299,c,1,357,tố tụng hình sự,75/2022/HS-ST
+299,,3,357,tố tụng hình sự,75/2022/HS-ST
+299,,,38,hình sự,75/2022/HS-ST
+299,,,58,hình sự,75/2022/HS-ST
+299,,,356,tố tụng hình sự,75/2022/HS-ST
+299,,,54,hình sự,75/2022/HS-ST
+300,b,1,244,hình sự,
+300,s,1,51,hình sự,
+300,,2,51,hình sự,
+300,,1,47,hình sự,
+300,,2,106,tố tụng hình sự,
+300,,,65,hình sự,
+300,,,106,tố tụng hình sự,
+300,,,56,hình sự,
+300,,,92,thi hành án hình sự,
+300,,,135,tố tụng hình sự,
+300,,,136,tố tụng hình sự,
+301,c,1,244,hình sự,
+301,s,1,51,hình sự,
+301,,2,51,hình sự,
+301,,1,244,hình sự,
+301,,2,135,tố tụng hình sự,
+301,,,38,hình sự,
+301,,,50,hình sự,
+301,,,58,hình sự,
+301,,,47,hình sự,
+301,,,106,tố tụng hình sự,
+301,,,331,tố tụng hình sự,
+301,,,333,tố tụng hình sự,
+301,,,2,,thi hành án dân sự
+301,,,6,,thi hành án dân sự
+301,,,7,,thi hành án dân sự
+301,,,7a,,thi hành án dân sự
+301,,,7b,,thi hành án dân sự
+301,,,9,,thi hành án dân sự
+301,,,30,,thi hành án dân sự
+302,a,1,244,hình sự,
+302,s,1,51,hình sự,
+302,,2,51,hình sự,
+302,t,1,51,hình sự,
+302,,1,47,hình sự,
+302,,2,106,tố tụng hình sự,
+302,,2,136,tố tụng hình sự,
+302,,,244,hình sự,
+302,,,65,hình sự,
+302,,,92,thi hành án hình sự,
+302,,,331,tố tụng hình sự,
+302,,,333,tố tụng hình sự,
+303,b,1,244,hình sự,
+303,s,1,51,hình sự,
+303,,2,51,hình sự,
+303,a,1,47,hình sự,
+303,c,1,47,hình sự,
+303,a,2,106,tố tụng hình sự,
+303,a,3,106,tố tụng hình sự,
+303,d,1,125,tố tụng hình sự,
+303,,1,65,hình sự,
+303,,2,65,hình sự,
+303,,5,65,hình sự,
+303,,4,244,hình sự,
+303,,2,136,tố tụng hình sự,
+303,,1,331,tố tụng hình sự,
+303,,4,331,tố tụng hình sự,
+303,,,56,hình sự,
+303,,,244,hình sự,
+303,,,333,tố tụng hình sự,
+304,b,1,244,hình sự,
+304,s,1,51,hình sự,
+304,,2,51,hình sự,
+304,,1,47,hình sự,
+304,,5,65,hình sự,
+304,,,65,hình sự,
+304,,,106,tố tụng hình sự,
+304,,,92,thi hành án hình sự,
+304,,,136,tố tụng hình sự,
+304,,,331,tố tụng hình sự,
+304,,,333,tố tụng hình sự,
+305,a,1,244,hình sự,
+305,s,1,51,hình sự,
+305,h,1,52,hình sự,
+305,,2,51,hình sự,
+305,,,38,hình sự,
+305,,,47,hình sự,
+305,,,106,tố tụng hình sự,
+305,,,136,tố tụng hình sự,
+305,,,331,tố tụng hình sự,
+305,,,333,tố tụng hình sự,
+306,a,1,244,hình sự,
+306,b,1,244,hình sự,
+306,s,1,51,hình sự,
+306,m,1,51,hình sự,
+306,i,1,51,hình sự,
+306,b,1,51,hình sự,
+306,,2,51,hình sự,
+306,,3,54,hình sự,
+306,,2,106,tố tụng hình sự,
+306,,,65,hình sự,
+306,,,92,thi hành án hình sự,
+306,,,47,hình sự,
+306,,,136,tố tụng hình sự,
+307,b,1,244,hình sự,
+307,s,1,51,hình sự,
+307,,2,136,tố tụng hình sự,
+307,,,47,hình sự,
+307,,,106,tố tụng hình sự,
+307,,,244,hình sự,
+308,b,1,244,hình sự,
+308,s,1,51,hình sự,
+308,v,1,51,hình sự,
+308,c,1,47,hình sự,
+308,c,2,106,tố tụng hình sự,
+308,,4,244,hình sự,
+308,,2,136,tố tụng hình sự,
+308,,,244,hình sự,
+309,a,1,244,hình sự,
+309,s,1,51,hình sự,
+309,,2,51,hình sự,
+309,,,65,hình sự,
+309,,,47,hình sự,
+309,,,106,tố tụng hình sự,
+309,,,136,tố tụng hình sự,
+309,,,331,tố tụng hình sự,
+309,,,333,tố tụng hình sự,
+310,a,2,244,hình sự,
+310,s,1,51,hình sự,
+310,,,38,hình sự,
+310,,,136,tố tụng hình sự,
+311,b,1,244,hình sự,
+311,s,1,51,hình sự,
+311,,2,51,hình sự,
+311,t,1,51,hình sự,
+311,x,1,51,hình sự,
+311,,3,92,thi hành án hình sự,
+311,,,65,hình sự,
+311,,,136,tố tụng hình sự,
+311,,,331,tố tụng hình sự,
+311,,,333,tố tụng hình sự,
+312,b,1,244,hình sự,
+312,s,1,51,hình sự,
+312,,2,51,hình sự,
+312,,4,244,hình sự,
+312,,2,106,tố tụng hình sự,
+312,,2,136,tố tụng hình sự,
+312,,,65,hình sự,
+312,,,47,hình sự,
+312,,,106,tố tụng hình sự,
+312,,,244,hình sự,
+312,,,234,hình sự,
+312,,,2,,thi hành án dân sự
+312,,,6,,thi hành án dân sự
+312,,,7,,thi hành án dân sự
+312,,,7a,,thi hành án dân sự
+312,,,7b,,thi hành án dân sự
+312,,,9,,thi hành án dân sự
+312,,,30,,thi hành án dân sự
+314,g,2,244,hình sự,11/2022/HS-ST
+314,s,1,51,hình sự,11/2022/HS-ST
+314,,2,51,hình sự,11/2022/HS-ST
+314,a,1,355,tố tụng hình sự,11/2022/HS-ST
+314,b,1,51,hình sự,11/2022/HS-ST
+314,,1,355,tố tụng hình sự,11/2022/HS-ST
+314,,2,136,tố tụng hình sự,11/2022/HS-ST
+314,,,356,tố tụng hình sự,11/2022/HS-ST
+314,,,358,tố tụng hình sự,11/2022/HS-ST
+314,,,65,hình sự,11/2022/HS-ST
+315,a,2,244,hình sự,
+315,i,2,244,hình sự,
+315,s,1,51,hình sự,
+315,,2,51,hình sự,
+315,t,1,51,hình sự,
+315,,1,293,tố tụng hình sự,
+315,,1,51,hình sự,
+315,,2,136,tố tụng hình sự,
+315,,,38,hình sự,
+315,,,54,hình sự,
+315,,,244,hình sự,
+315,,,292,tố tụng hình sự,
+315,,,50,hình sự,
+315,,,106,tố tụng hình sự,
+315,,,331,tố tụng hình sự,
+315,,,332,tố tụng hình sự,
+315,,,333,tố tụng hình sự,
+315,,,2,,thi hành án dân sự
+315,,,6,,thi hành án dân sự
+315,,,7,,thi hành án dân sự
+315,,,9,,thi hành án dân sự
+315,,,30,,thi hành án dân sự
+316,a,1,244,hình sự,
+316,s,1,51,hình sự,
+316,,2,51,hình sự,
+316,,1,52,hình sự,
+316,,2,136,tố tụng hình sự,
+316,,,65,hình sự,
+316,,,47,hình sự,
+316,,,106,tố tụng hình sự,
+316,,,331,tố tụng hình sự,
+316,,,333,tố tụng hình sự,
+316,,,69,thi hành án hình sự,
+317,a,1,244,hình sự,
+317,s,1,51,hình sự,
+317,,2,51,hình sự,
+317,h,1,51,hình sự,
+317,,1,51,hình sự,
+317,,1,52,hình sự,
+317,,4,244,hình sự,
+317,,,38,hình sự,
+317,,,50,hình sự,
+317,,,65,hình sự,
+317,,,92,thi hành án hình sự,
+317,,,47,hình sự,
+317,,,106,tố tụng hình sự,
+317,,,135,tố tụng hình sự,
+317,,,136,tố tụng hình sự,
+318,d,3,244,hình sự,
+318,s,1,51,hình sự,
+318,,2,51,hình sự,
+318,,4,244,hình sự,
+318,,,38,hình sự,
+318,,,54,hình sự,
+318,,,17,hình sự,
+318,,,58,hình sự,
+318,,,46,hình sự,
+318,,,47,hình sự,
+318,,,106,tố tụng hình sự,
+318,,,331,tố tụng hình sự,
+318,,,333,tố tụng hình sự,
+319,b,1,244,hình sự,
+319,s,1,51,hình sự,
+319,,2,51,hình sự,
+319,,1,47,hình sự,
+319,,2,106,tố tụng hình sự,
+319,,,35,hình sự,
+319,,,106,tố tụng hình sự,
+319,,,135,tố tụng hình sự,
+319,,,136,tố tụng hình sự,
+320,a,1,244,hình sự,
+320,s,1,51,hình sự,
+320,,2,51,hình sự,
+320,a,1,47,hình sự,
+320,a,2,106,tố tụng hình sự,
+320,c,2,106,tố tụng hình sự,
+320,a,3,106,tố tụng hình sự,
+320,,1,65,hình sự,
+320,,2,65,hình sự,
+320,,5,65,hình sự,
+320,,2,136,tố tụng hình sự,
+320,,,58,hình sự,
+320,,,65,hình sự,
+320,,,92,thi hành án hình sự,
+320,,,56,hình sự,
+321,a,1,244,hình sự,
+321,s,1,51,hình sự,
+321,,2,51,hình sự,
+321,a,1,47,hình sự,
+321,a,2,106,tố tụng hình sự,
+321,,1,65,hình sự,
+321,,2,65,hình sự,
+321,,,47,hình sự,
+321,,,106,tố tụng hình sự,
+321,,,244,hình sự,
+321,,,52,hình sự,
+321,,,135,tố tụng hình sự,
+322,a,1,244,hình sự,
+322,s,1,51,hình sự,
+322,a,1,47,hình sự,
+322,a,2,106,tố tụng hình sự,
+322,c,2,106,tố tụng hình sự,
+322,,4,7,,Luật Đa dạng sinh học
+322,,4,244,hình sự,
+322,,,38,hình sự,
+322,,,136,tố tụng hình sự,
+322,,,331,tố tụng hình sự,
+322,,,333,tố tụng hình sự,
+323,b,1,244,hình sự,
+323,s,1,51,hình sự,
+323,,2,51,hình sự,
+323,v,1,51,hình sự,
+323,a,1,47,hình sự,
+323,,2,47,hình sự,
+323,a,2,106,tố tụng hình sự,
+323,,3,106,tố tụng hình sự,
+323,,1,244,hình sự,
+323,,,38,hình sự,
+323,,,50,hình sự,
+323,,,65,hình sự,
+323,,,47,hình sự,
+323,,,106,tố tụng hình sự,
+323,,,331,tố tụng hình sự,
+323,,,333,tố tụng hình sự,
+323,,,92,thi hành án hình sự,
+324,a,1,244,hình sự,
+324,s,1,51,hình sự,
+324,,2,51,hình sự,
+324,,4,244,hình sự,
+324,,,38,hình sự,
+324,,,50,hình sự,
+324,,,65,hình sự,
+324,,,47,hình sự,
+324,,,106,tố tụng hình sự,
+324,,,92,thi hành án hình sự,
+324,,,68,thi hành án hình sự,
+324,,,135,tố tụng hình sự,
+324,,,136,tố tụng hình sự,
+325,b,1,244,hình sự,
+325,s,1,51,hình sự,
+325,g,1,52,hình sự,
+325,a,1,47,hình sự,
+325,a,2,106,tố tụng hình sự,
+325,c,1,47,hình sự,
+325,,4,244,hình sự,
+325,,2,135,tố tụng hình sự,
+325,,2,136,tố tụng hình sự,
+325,,,38,hình sự,
+325,,,234,hình sự,
+325,,,331,tố tụng hình sự,
+325,,,333,tố tụng hình sự,
+325,,,2,,thi hành án dân sự
+325,,,6,,thi hành án dân sự
+325,,,7,,thi hành án dân sự
+325,,,9,,thi hành án dân sự
+325,,,30,,thi hành án dân sự
+326,h,2,244,hình sự,17/2022/HS-ST
+326,s,1,51,hình sự,17/2022/HS-ST
+326,a,1,47,hình sự,17/2022/HS-ST
+326,c,1,47,hình sự,17/2022/HS-ST
+326,a,1,355,tố tụng hình sự,17/2022/HS-ST
+326,,2,244,hình sự,17/2022/HS-ST
+326,,,38,hình sự,17/2022/HS-ST
+326,,,333,tố tụng hình sự,17/2022/HS-ST
+327,c,2,244,hình sự,
+327,s,1,51,hình sự,
+327,,2,51,hình sự,
+327,t,1,51,hình sự,
+327,e,2,32,hình sự,
+327,a,1,47,hình sự,
+327,a,2,106,tố tụng hình sự,
+327,c,2,106,tố tụng hình sự,
+327,a,3,106,tố tụng hình sự,
+327,,1,54,hình sự,
+327,,4,244,hình sự,
+327,,2,35,hình sự,
+327,,2,135,tố tụng hình sự,
+327,,2,136,tố tụng hình sự,
+327,,,65,hình sự,
+327,,,244,hình sự,
+327,,,92,thi hành án hình sự,
+328,a,1,244,hình sự,
+328,s,1,51,hình sự,
+328,,2,51,hình sự,
+328,h,1,51,hình sự,
+328,,3,244,hình sự,
+328,,2,106,tố tụng hình sự,
+328,,2,136,tố tụng hình sự,
+328,,,65,hình sự,
+328,,,52,hình sự,
+328,,,47,hình sự,
+328,,,135,tố tụng hình sự,
+328,,,331,tố tụng hình sự,
+328,,,333,tố tụng hình sự,
+329,b,1,244,hình sự,
+329,s,1,51,hình sự,
+329,,2,51,hình sự,
+329,a,1,47,hình sự,
+329,,4,244,hình sự,
+329,,1,51,hình sự,
+329,,2,136,tố tụng hình sự,
+329,,,65,hình sự,
+329,,,106,tố tụng hình sự,
+329,,,135,tố tụng hình sự,
+329,,,331,tố tụng hình sự,
+329,,,333,tố tụng hình sự,
+329,,,92,thi hành án hình sự,
+329,,,55,hình sự,
+329,,,56,hình sự,
+330,b,1,244,hình sự,
+330,s,1,51,hình sự,
+330,,2,51,hình sự,
+330,i,1,51,hình sự,
+330,,1,244,hình sự,
+330,,4,244,hình sự,
+330,,2,136,tố tụng hình sự,
+330,,,65,hình sự,
+330,,,46,hình sự,
+330,,,47,hình sự,
+330,,,106,tố tụng hình sự,
+330,,,331,tố tụng hình sự,
+330,,,332,tố tụng hình sự,
+331,a,1,244,hình sự,
+331,s,1,51,hình sự,
+331,,2,51,hình sự,
+331,v,1,51,hình sự,
+331,c,2,106,tố tụng hình sự,
+331,,4,244,hình sự,
+331,,3,92,thi hành án hình sự,
+331,,1,47,hình sự,
+331,,2,136,tố tụng hình sự,
+331,,,65,hình sự,
+331,,,135,tố tụng hình sự,
+332,s,1,51,hình sự,
+332,,2,51,hình sự,
+332,h,1,51,hình sự,
+332,,1,244,hình sự,
+332,,4,244,hình sự,
+332,,2,92,thi hành án hình sự,
+332,,2,468,,dân sự
+332,,,65,hình sự,
+332,,,48,hình sự,
+332,,,47,hình sự,
+332,,,106,tố tụng hình sự,
+332,,,68,thi hành án hình sự,
+332,,,136,tố tụng hình sự,
+332,,,331,tố tụng hình sự,
+332,,,333,tố tụng hình sự,
+332,,,2,,thi hành án dân sự
+332,,,6,,thi hành án dân sự
+332,,,7,,thi hành án dân sự
+332,,,7a,,thi hành án dân sự
+332,,,9,,thi hành án dân sự
+332,,,30,,thi hành án dân sự
+334,b,1,244,hình sự,
+334,s,1,51,hình sự,
+334,,2,51,hình sự,
+334,,1,47,hình sự,
+334,,2,106,tố tụng hình sự,
+334,,1,51,hình sự,
+334,,2,135,tố tụng hình sự,
+334,,2,136,tố tụng hình sự,
+334,,,58,hình sự,
+334,,,65,hình sự,
+334,,,17,hình sự,
+334,,,50,hình sự,
+334,,,92,thi hành án hình sự,
+334,,,56,hình sự,
+334,,,331,tố tụng hình sự,
+334,,,333,tố tụng hình sự,
+335,b,1,244,hình sự,
+335,s,1,51,hình sự,
+335,,2,51,hình sự,
+335,,,38,hình sự,
+335,,,50,hình sự,
+335,,,65,hình sự,
+335,,,92,thi hành án hình sự,
+335,,,47,hình sự,
+335,,,106,tố tụng hình sự,
+336,a,1,244,hình sự,
+336,s,1,51,hình sự,
+336,,2,51,hình sự,
+336,t,1,51,hình sự,
+336,a,1,47,hình sự,
+336,a,2,106,tố tụng hình sự,
+336,b,3,106,tố tụng hình sự,
+336,,4,328,tố tụng hình sự,
+336,,4,244,hình sự,
+336,,,58,hình sự,
+336,,,65,hình sự,
+336,,,244,hình sự,
+336,,,50,hình sự,
+336,,,331,tố tụng hình sự,
+336,,,333,tố tụng hình sự,
+336,,,92,thi hành án hình sự,
+336,,,56,hình sự,
+337,a,3,244,hình sự,
+337,s,1,51,hình sự,
+337,,2,51,hình sự,
+337,,3,244,hình sự,
+337,,1,47,hình sự,
+337,,,244,hình sự,
+337,,,54,hình sự,
+337,,,38,hình sự,
+337,,,106,tố tụng hình sự,
+337,,,136,tố tụng hình sự,
+338,b,1,244,hình sự,58/2018/HS-ST
+338,s,1,51,hình sự,58/2018/HS-ST
+338,a,1,355,tố tụng hình sự,58/2018/HS-ST
+338,,,58,hình sự,58/2018/HS-ST
+338,,,37,hình sự,58/2018/HS-ST
+338,,,38,hình sự,58/2018/HS-ST
+338,,,356,tố tụng hình sự,58/2018/HS-ST
+339,h,2,244,hình sự,74/2018/HS-ST
+339,s,1,51,hình sự,74/2018/HS-ST
+339,,2,51,hình sự,74/2018/HS-ST
+339,b,1,51,hình sự,74/2018/HS-ST
+339,h,1,244,hình sự,74/2018/HS-ST
+339,a,1,355,tố tụng hình sự,74/2018/HS-ST
+339,,,244,hình sự,74/2018/HS-ST
+339,,,356,tố tụng hình sự,74/2018/HS-ST
+340,a,3,244,hình sự,
+340,s,1,51,hình sự,
+340,,2,51,hình sự,
+340,t,1,51,hình sự,
+340,a,2,106,tố tụng hình sự,
+340,,1,51,hình sự,
+340,,1,47,hình sự,
+340,,2,136,tố tụng hình sự,
+340,,,38,hình sự,
+340,,,54,hình sự,
+340,,,2,,thi hành án dân sự
+340,,,6,,thi hành án dân sự
+340,,,7,,thi hành án dân sự
+340,,,9,,thi hành án dân sự
+340,,,30,,thi hành án dân sự
+341,b,1,244,hình sự,280/2018/HSST
+341,s,1,51,hình sự,280/2018/HSST
+341,,2,51,hình sự,280/2018/HSST
+341,p,1,51,hình sự,280/2018/HSST
+341,t,1,51,hình sự,280/2018/HSST
+341,b,1,355,tố tụng hình sự,280/2018/HSST
+341,c,1,357,tố tụng hình sự,280/2018/HSST
+341,u,1,51,hình sự,280/2018/HSST
+341,a,1,355,tố tụng hình sự,280/2018/HSST
+341,,1,51,hình sự,280/2018/HSST
+341,,,38,hình sự,280/2018/HSST
+341,,,47,hình sự,280/2018/HSST
+341,,,54,hình sự,280/2018/HSST
+341,,,36,hình sự,280/2018/HSST
+341,,,65,hình sự,280/2018/HSST
+341,,,348,tố tụng hình sự,280/2018/HSST
+341,,,357,tố tụng hình sự,280/2018/HSST
+341,,,356,tố tụng hình sự,280/2018/HSST
+341,,,136,tố tụng hình sự,280/2018/HSST
+342,s,1,51,hình sự,
+342,,2,51,hình sự,
+342,,1,51,hình sự,
+342,,1,244,hình sự,
+342,,,65,hình sự,
+342,,,47,hình sự,
+342,,,106,tố tụng hình sự,
+342,,,136,tố tụng hình sự,
+342,,,69,thi hành án hình sự,
+343,a,1,244,hình sự,03/2019/HSST
+343,s,1,51,hình sự,03/2019/HSST
+343,h,1,51,hình sự,03/2019/HSST
+343,b,1,355,tố tụng hình sự,03/2019/HSST
+343,e,1,357,tố tụng hình sự,03/2019/HSST
+343,,2,51,hình sự,03/2019/HSST
+343,,,65,hình sự,03/2019/HSST
+344,a,2,244,hình sự,16/2019/HS-ST
+344,s,1,51,hình sự,16/2019/HS-ST
+344,,2,51,hình sự,16/2019/HS-ST
+344,l,1,51,hình sự,16/2019/HS-ST
+344,b,1,355,tố tụng hình sự,16/2019/HS-ST
+344,e,1,357,tố tụng hình sự,16/2019/HS-ST
+344,,1,54,hình sự,16/2019/HS-ST
+344,,2,54,hình sự,16/2019/HS-ST
+344,,2,69,hình sự,16/2019/HS-ST
+344,,,65,hình sự,16/2019/HS-ST
+345,b,1,244,hình sự,
+345,s,1,51,hình sự,
+345,,2,51,hình sự,
+345,t,1,51,hình sự,
+345,,3,54,hình sự,
+345,,1,244,hình sự,
+345,,,65,hình sự,
+345,,,47,hình sự,
+345,,,106,tố tụng hình sự,
+345,,,136,tố tụng hình sự,
+345,,,331,tố tụng hình sự,
+345,,,333,tố tụng hình sự,
+345,,,92,thi hành án hình sự,
+346,b,1,244,hình sự,12/2022/HSST
+346,s,1,51,hình sự,12/2022/HSST
+346,,2,51,hình sự,12/2022/HSST
+346,h,1,52,hình sự,12/2022/HSST
+346,a,1,355,tố tụng hình sự,12/2022/HSST
+346,,,38,hình sự,12/2022/HSST
+346,,,356,tố tụng hình sự,12/2022/HSST
+347,a,1,244,hình sự,38/2022/HS-ST
+347,s,1,51,hình sự,38/2022/HS-ST
+347,,2,51,hình sự,38/2022/HS-ST
+347,a,1,355,tố tụng hình sự,38/2022/HS-ST
+347,b,1,355,tố tụng hình sự,38/2022/HS-ST
+347,c,1,357,tố tụng hình sự,38/2022/HS-ST
+347,a,1,352,tố tụng hình sự,38/2022/HS-ST
+347,c,1,351,tố tụng hình sự,38/2022/HS-ST
+347,,4,244,hình sự,38/2022/HS-ST
+347,,2,135,tố tụng hình sự,38/2022/HS-ST
+347,,,356,tố tụng hình sự,38/2022/HS-ST
+347,,,136,tố tụng hình sự,38/2022/HS-ST
+349,a,1,244,hình sự,
+349,s,1,51,hình sự,
+349,,2,51,hình sự,
+349,a,1,47,hình sự,
+349,,2,47,hình sự,
+349,a,2,106,tố tụng hình sự,
+349,b,3,106,tố tụng hình sự,
+349,,1,69,thi hành án hình sự,
+349,,2,136,tố tụng hình sự,
+349,,,65,hình sự,
+349,,,331,tố tụng hình sự,
+349,,,333,tố tụng hình sự,
+350,a,1,244,hình sự,
+350,s,1,51,hình sự,
+350,,2,51,hình sự,
+350,,4,244,hình sự,
+350,,1,47,hình sự,
+350,,2,106,tố tụng hình sự,
+350,,2,47,hình sự,
+350,,3,106,tố tụng hình sự,
+350,,,244,hình sự,
+350,,,38,hình sự,
+350,,,47,hình sự,
+350,,,106,tố tụng hình sự,
+350,,,331,tố tụng hình sự,
+350,,,333,tố tụng hình sự,
