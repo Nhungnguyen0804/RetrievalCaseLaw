@@ -14,8 +14,8 @@ engine = create_engine(
 )
 
 # Đọc file CSV
-df = pd.read_csv("E:\\thucTapTruong\\import\\all_import1.csv", encoding="utf-8", dtype={
-    'case_id': int,
+df = pd.read_csv("E:\\thucTapTruong\\import\\import2.csv", encoding="utf-8", dtype={
+    # 'case_id': int,
     'point': str,
     'clause': str,
     'article': str,
@@ -23,6 +23,23 @@ df = pd.read_csv("E:\\thucTapTruong\\import\\all_import1.csv", encoding="utf-8",
     'Note': str
 })
 
+
+# 2. Bỏ dòng toàn NaN
+df = df.dropna(how="all")
+df['case_id'] = df['case_id'].astype(int)
+
+#CHECK =====================================================
+# # Cột đầu tiên
+# col = df.iloc[:, 0]
+
+# # Tìm giá trị không phải số nguyên
+# mask = ~col.apply(lambda x: str(x).strip().isdigit())
+
+# print(df[mask])
+
+
+
+# IMPORT =====================================================
 # Bổ sung cột thiếu vì k có trong csv
 df["law_id"] = None
 
