@@ -1,6 +1,0 @@
-id,case_id,law_id,point,clause,article,type,Note
-1,1,NULL,i,1,51,"hình sự",NULL
-2,1,NULL,s,1,51,"hình sự",NULL
-3,1,NULL,NULL,2,51,"hình sự",NULL
-4,1,NULL,g,1,52,"hình sự",NULL
-5,1,NULL,NULL,NULL,35,"hình sự",NULL
