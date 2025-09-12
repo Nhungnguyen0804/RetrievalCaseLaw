@@ -14,7 +14,7 @@ engine = create_engine(
 )
 
 # Đọc file CSV
-df = pd.read_csv("E:\\thucTapTruong\\import\\import2.csv", encoding="utf-8", dtype={
+df = pd.read_csv("E:\\thucTapTruong\\import\\import_final.csv", encoding="utf-8", dtype={
     # 'case_id': int,
     'point': str,
     'clause': str,
@@ -50,3 +50,4 @@ with engine.begin() as conn:
 
 # Import vào bảng case_law
 df.to_sql("case_law", con=engine, if_exists="append", index=False)
+
