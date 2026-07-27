@@ -15,7 +15,7 @@ cho việc so sánh và phát triển các phương pháp nâng cao trong tươn
 bản án) nên được thực hiện theo nhóm để tối ưu thời gian và đảm bảo tạo bộ dữ liệu
 gán nhãn chất lượng, chính xác.
 
-- Nhóm công việc thứ hai là tiền xử lý dữ liệu, xây dựng mô hình học máy cơ bản
+- Nhóm công việc thứ hai được thực hiện cá nhân là tiền xử lý dữ liệu, xây dựng mô hình học máy cơ bản
 và đánh giá.
 
 
