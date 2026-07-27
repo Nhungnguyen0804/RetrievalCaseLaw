@@ -26,7 +26,7 @@ và đánh giá.
 ### 1. Import bộ dữ liệu
 
 - Import file `dataset_10k.sql` vào **MySQL Workbench**.
-- Nếu sử dụng **Google Colab**, chuyển các bảng trong cơ sở dữ liệu sang định dạng **JSON** để thuận tiện cho việc import và xử lý dữ liệu.
+- Sử dụng **Google Colab**, chuyển các bảng trong cơ sở dữ liệu sang định dạng **JSON** để thuận tiện cho việc import và xử lý dữ liệu.
 
 ### 2. Cấu trúc dữ liệu
 
@@ -47,7 +47,7 @@ và đánh giá.
 ## Môi trường thực nghiệm
 
 - Google Colab (Jupyter Notebook)
-- Khuyến nghị sử dụng **GPU Runtime** để tối ưu thời gian huấn luyện và thực nghiệm.
+- Sử dụng **GPU Runtime** để tối ưu thời gian huấn luyện và thực nghiệm.
 
 ## Thư viện sử dụng
 
